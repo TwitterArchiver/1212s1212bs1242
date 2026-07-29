@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2063953499227144663",
+    "created_at": "2026-06-09T02:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T03:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064177093215486129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2025853804219154432",
+          "start": 0,
+          "username": "ynkaNOFcND19599"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064177093215486129",
+    "in_reply_to_user_id": "2025853804219154432",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064176999531471354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynkaNOFcND19599 2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2063953499227144663",
+        "created_at": "2026-06-09T02:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064177093215486129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025853804219154432",
+              "start": 0,
+              "username": "ynkaNOFcND19599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064177093215486129",
+        "in_reply_to_user_id": "2025853804219154432",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064176999531471354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynkaNOFcND19599 2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025853804219154432",
+        "conversation_id": "2063953499227144663",
+        "created_at": "2026-06-09T02:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064176999531471354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "1212s1212bs1242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064176999531471354",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063953499227144663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1212s1212bs1242 1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2063952495240753231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 881,
+          "like_count": 17704,
+          "listed_count": 1,
+          "media_count": 793,
+          "tweet_count": 9832
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T08:42:48.000Z",
+        "description": "💎 BNB Chain增长黑客 | BSC老炮儿\n专注BSC 10年 · 多条链上赛道实盘验证\n每天拆解：热门项目、Yield策略、Meme打法、新币狙击\n链上赚钱，就找我冲！🔥",
+        "id": "2025853804219154432",
+        "name": "李小龙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055568821805830144/8YHbMkYz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 62,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 33
+        },
+        "username": "ynkaNOFcND19599",
+        "verified": true
+      }
+    ]
+  }
+}

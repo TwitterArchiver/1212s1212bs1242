@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2063950918249504925",
+    "created_at": "2026-06-08T11:46:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T12:46:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063950918249504925"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/newusof/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/newusof/status/2063835783757209978",
+          "start": 5,
+          "url": "https://t.co/v09BAAz1jV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063950918249504925",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063835783757209978",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今日首笑 https://t.co/v09BAAz1jV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 747,
+        "media_key": "3_2063834789686267905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQ2znpX0AErOYW.jpg",
+        "width": 742
+      },
+      {
+        "height": 1308,
+        "media_key": "3_2063834712313942016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQ2vHaX0AAbrUW.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2063950918249504925",
+        "created_at": "2026-06-08T11:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063950918249504925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/newusof/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/newusof/status/2063835783757209978",
+              "start": 5,
+              "url": "https://t.co/v09BAAz1jV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063950918249504925",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063835783757209978",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今日首笑 https://t.co/v09BAAz1jV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063834789686267905",
+            "3_2063834712313942016"
+          ]
+        },
+        "author_id": "1991564299652022272",
+        "conversation_id": "2063835783757209978",
+        "created_at": "2026-06-08T04:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063835783757209978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VCuCpSHAos",
+              "end": 133,
+              "expanded_url": "https://x.com/newusof/status/2063835783757209978/photo/1",
+              "media_key": "3_2063834789686267905",
+              "start": 110,
+              "url": "https://t.co/VCuCpSHAos"
+            },
+            {
+              "display_url": "pic.x.com/VCuCpSHAos",
+              "end": 133,
+              "expanded_url": "https://x.com/newusof/status/2063835783757209978/photo/1",
+              "media_key": "3_2063834712313942016",
+              "start": 110,
+              "url": "https://t.co/VCuCpSHAos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063835783757209978",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 67624,
+          "like_count": 91,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "9 REGLAS DE LA TESTOSTERONA:\n\n1. Si no eyaculas durante 9 días, tus niveles de testosterona aumentan un 50 %. https://t.co/VCuCpSHAos"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2063091176224485768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 871,
+          "like_count": 17704,
+          "listed_count": 1,
+          "media_count": 789,
+          "tweet_count": 9814
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T17:48:53.000Z",
+        "description": "Premium threads & videos for premium people.🫵🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "newus.gumroad.com/l/becomeattrac…",
+                "end": 23,
+                "expanded_url": "https://newus.gumroad.com/l/becomeattractive",
+                "start": 0,
+                "url": "https://t.co/QfoKTGCq3e"
+              }
+            ]
+          }
+        },
+        "id": "1991564299652022272",
+        "location": "IMPROVE YOUR LIFE➡️",
+        "name": "NewUs",
+        "pinned_tweet_id": "2063663534580351456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991570668836544512/ezETwofd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32055,
+          "following_count": 548,
+          "like_count": 13859,
+          "listed_count": 63,
+          "media_count": 1308,
+          "tweet_count": 29777
+        },
+        "url": "https://t.co/QfoKTGCq3e",
+        "username": "newusof",
+        "verified": true
+      }
+    ]
+  }
+}

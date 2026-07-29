@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2066053964530098656",
+    "created_at": "2026-06-14T07:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066055488706625838"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066055488706625838",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066053964530098656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人生要如何起头，改变要如何起手？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29203,
+        "height": 1280,
+        "media_key": "7_2066053721013039106",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066053721013039106/pu/img/RL5XaiIAV1tI2vva.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066053721013039106/pu/vid/avc1/320x568/B5BexUGopSCcX5HG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066053721013039106/pu/vid/avc1/480x852/SSUqTuvF_MSMrIcN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066053721013039106/pu/vid/avc1/720x1280/-lDAeWeRF9_EgV4r.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066053721013039106/pu/pl/8cT6VKDY9OxCYwp3.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2066053964530098656",
+        "created_at": "2026-06-14T07:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066055488706625838"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066055488706625838",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066053964530098656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人生要如何起头，改变要如何起手？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066053721013039106"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2066053964530098656",
+        "created_at": "2026-06-14T07:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066053964530098656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OBbWFrOnyT",
+              "end": 26,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2066053964530098656/video/1",
+              "media_key": "7_2066053721013039106",
+              "start": 3,
+              "url": "https://t.co/OBbWFrOnyT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066053964530098656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "腐烂 https://t.co/OBbWFrOnyT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "复活的亡灵，查成分互fo/大陆哲学爱好，最近想了解一下古典经济学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 921,
+          "like_count": 17338,
+          "listed_count": 1,
+          "media_count": 864,
+          "tweet_count": 10016
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

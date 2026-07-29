@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2071414339475771688",
+    "created_at": "2026-06-29T02:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T03:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071414339475771688"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yudia666/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/yudia666/status/2071400913500307498",
+          "start": 5,
+          "url": "https://t.co/8VszeeEoy5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071414339475771688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071400913500307498",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "早上好~ https://t.co/8VszeeEoy5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2071414339475771688",
+        "created_at": "2026-06-29T02:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T03:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071414339475771688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yudia666/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/yudia666/status/2071400913500307498",
+              "start": 5,
+              "url": "https://t.co/8VszeeEoy5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071414339475771688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071400913500307498",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "早上好~ https://t.co/8VszeeEoy5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058029942198374400",
+        "conversation_id": "2071397408697901241",
+        "created_at": "2026-06-29T01:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T02:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071400913500307498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "1212s1212bs1242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071400913500307498",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071397408697901241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1212s1212bs1242 早好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "12是12/没消息就是进牢了/单机/我只是一个缺爱的抽烟大丑b",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069708575530700800/awHm2N_j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 941,
+          "like_count": 17223,
+          "listed_count": 1,
+          "media_count": 969,
+          "tweet_count": 10238
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T03:39:58.000Z",
+        "description": "年龄不详,性别:尸体,音乐重度依赖,最❤️的乐队:Crystal Castles,💊🍺🚬,碎碎念,负能量？几乎无精力主动社交,不要把我当傻逼,欢迎互关\nfo,看见有互关发帖就点赞tg:YUDAnb8964 /108",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuda21436",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuda21436",
+                "start": 0,
+                "url": "https://t.co/BUKnKIH0FA"
+              }
+            ]
+          }
+        },
+        "id": "2058029942198374400",
+        "location": "“第二の世界”",
+        "name": "𝖞𝖚𝖉𝖆",
+        "pinned_tweet_id": "2070860527086317741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068942921869758464/UJ-J2j84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 128,
+          "like_count": 6419,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 800
+        },
+        "url": "https://t.co/BUKnKIH0FA",
+        "username": "yudia666",
+        "verified": false
+      }
+    ]
+  }
+}

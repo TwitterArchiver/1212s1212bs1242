@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2065376378149847194",
+    "created_at": "2026-06-12T10:11:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065376378149847194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1945165045589270528",
+          "start": 3,
+          "username": "AscendenciaX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065376378149847194",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 363
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065085649019867335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AscendenciaX: Puedo reconocer a un adicto a la p0rn0graf1a y la m4sturbación cuando veo uno.\n\nNo por lo que dicen...\n\nSino porque siemp…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2065085637422628864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiocilWQAAIDbU.jpg",
+        "width": 852
+      },
+      {
+        "height": 750,
+        "media_key": "3_2065085637426860032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiocimW0AAby54.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2065376378149847194",
+        "created_at": "2026-06-12T10:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065376378149847194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1945165045589270528",
+              "start": 3,
+              "username": "AscendenciaX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065376378149847194",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 363
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065085649019867335",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AscendenciaX: Puedo reconocer a un adicto a la p0rn0graf1a y la m4sturbación cuando veo uno.\n\nNo por lo que dicen...\n\nSino porque siemp…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065085637422628864",
+            "3_2065085637426860032"
+          ]
+        },
+        "author_id": "1945165045589270528",
+        "conversation_id": "2065085649019867335",
+        "created_at": "2026-06-11T14:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065085649019867335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tRM7kf111v",
+              "end": 220,
+              "expanded_url": "https://x.com/AscendenciaX/status/2065085649019867335/photo/1",
+              "media_key": "3_2065085637422628864",
+              "start": 197,
+              "url": "https://t.co/tRM7kf111v"
+            },
+            {
+              "display_url": "pic.x.com/tRM7kf111v",
+              "end": 220,
+              "expanded_url": "https://x.com/AscendenciaX/status/2065085649019867335/photo/1",
+              "media_key": "3_2065085637426860032",
+              "start": 197,
+              "url": "https://t.co/tRM7kf111v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065085649019867335",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6935,
+          "impression_count": 4863641,
+          "like_count": 4798,
+          "quote_count": 94,
+          "reply_count": 213,
+          "retweet_count": 363
+        },
+        "reply_settings": "everyone",
+        "text": "Puedo reconocer a un adicto a la p0rn0graf1a y la m4sturbación cuando veo uno.\n\nNo por lo que dicen...\n\nSino porque siempre tienen las mismas características visibles:\n\n1. Sus ojos se ven débiles… https://t.co/tRM7kf111v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo/大陆哲学爱好，最近想了解一下古典经济学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 905,
+          "like_count": 17325,
+          "listed_count": 1,
+          "media_count": 842,
+          "tweet_count": 9951
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T16:54:47.000Z",
+        "description": "Welcome Back!",
+        "id": "1945165045589270528",
+        "name": "Cristian Medina",
+        "pinned_tweet_id": "2062213496297689210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026121114095583232/QbGwUq6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33168,
+          "following_count": 855,
+          "like_count": 78400,
+          "listed_count": 90,
+          "media_count": 5428,
+          "tweet_count": 100756
+        },
+        "username": "AscendenciaX",
+        "verified": true
+      }
+    ]
+  }
+}

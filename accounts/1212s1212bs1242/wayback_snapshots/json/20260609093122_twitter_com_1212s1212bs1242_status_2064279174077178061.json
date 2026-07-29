@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064279097254313984",
+        "7_2064279119349927936"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2064279174077178061",
+    "created_at": "2026-06-09T09:31:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T10:31:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064279174077178061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JNHxkrDwPP",
+          "end": 34,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2064279174077178061/video/1",
+          "media_key": "3_2064279097254313984",
+          "start": 11,
+          "url": "https://t.co/JNHxkrDwPP"
+        },
+        {
+          "display_url": "pic.x.com/JNHxkrDwPP",
+          "end": 34,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2064279174077178061/video/1",
+          "media_key": "7_2064279119349927936",
+          "start": 11,
+          "url": "https://t.co/JNHxkrDwPP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064279174077178061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所有人开始下午的任务 https://t.co/JNHxkrDwPP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064279097254313984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXK5uUbgAA59ak.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 24439,
+        "height": 1280,
+        "media_key": "7_2064279119349927936",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2064279119349927936/pu/img/SxrGVOZz_F_O16Xi.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064279119349927936/pu/vid/avc1/320x568/1zPYe8Usp9-rxrrh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064279119349927936/pu/vid/avc1/480x852/FlbH1aTO-1cHdXpq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064279119349927936/pu/vid/avc1/720x1280/up8jW5yPh09PZ2de.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2064279119349927936/pu/pl/gjaXusmLU3qbEyH6.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064279097254313984",
+            "7_2064279119349927936"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2064279174077178061",
+        "created_at": "2026-06-09T09:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064279174077178061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JNHxkrDwPP",
+              "end": 34,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2064279174077178061/video/1",
+              "media_key": "3_2064279097254313984",
+              "start": 11,
+              "url": "https://t.co/JNHxkrDwPP"
+            },
+            {
+              "display_url": "pic.x.com/JNHxkrDwPP",
+              "end": 34,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2064279174077178061/video/1",
+              "media_key": "7_2064279119349927936",
+              "start": 11,
+              "url": "https://t.co/JNHxkrDwPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064279174077178061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人开始下午的任务 https://t.co/JNHxkrDwPP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2063952495240753231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 882,
+          "like_count": 17710,
+          "listed_count": 1,
+          "media_count": 803,
+          "tweet_count": 9854
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

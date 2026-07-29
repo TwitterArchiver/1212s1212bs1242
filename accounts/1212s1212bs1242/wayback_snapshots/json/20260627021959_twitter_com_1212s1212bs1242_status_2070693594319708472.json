@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2070693594319708472",
+    "created_at": "2026-06-27T02:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T03:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070693594319708472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "733373931571302400",
+          "start": 3,
+          "username": "GOMNTSUKKI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070693594319708472",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 281
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070475132628357243",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GOMNTSUKKI: j ai vrm le syndrome du cendrage compulsif c a dire que qd je fume une clope je cendre entre chaque taffe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2070693594319708472",
+        "created_at": "2026-06-27T02:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070693594319708472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "733373931571302400",
+              "start": 3,
+              "username": "GOMNTSUKKI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070693594319708472",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 281
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070475132628357243",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GOMNTSUKKI: j ai vrm le syndrome du cendrage compulsif c a dire que qd je fume une clope je cendre entre chaque taffe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "733373931571302400",
+        "conversation_id": "2070475132628357243",
+        "created_at": "2026-06-26T11:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070475132628357243"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070475132628357243",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 78595,
+          "like_count": 2311,
+          "quote_count": 29,
+          "reply_count": 12,
+          "retweet_count": 281
+        },
+        "reply_settings": "everyone",
+        "text": "j ai vrm le syndrome du cendrage compulsif c a dire que qd je fume une clope je cendre entre chaque taffe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "12是12/没消息就是进牢了",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12和他的小乌龟13",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069708575530700800/awHm2N_j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 939,
+          "like_count": 17210,
+          "listed_count": 1,
+          "media_count": 959,
+          "tweet_count": 10212
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-19T19:09:05.000Z",
+        "description": "baby alone in Babylone",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/efuvfX1_k_Y?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/efuvfX1_k_Y?si=1Y9Vo5SrAQM2KWL2",
+                "start": 0,
+                "url": "https://t.co/y7KF4xB9wR"
+              }
+            ]
+          }
+        },
+        "id": "733373931571302400",
+        "name": "Jea",
+        "pinned_tweet_id": "1712099008963874867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056827700166180864/G2edVYW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 897,
+          "like_count": 121032,
+          "listed_count": 20,
+          "media_count": 5584,
+          "tweet_count": 118675
+        },
+        "url": "https://t.co/y7KF4xB9wR",
+        "username": "GOMNTSUKKI",
+        "verified": false
+      }
+    ]
+  }
+}

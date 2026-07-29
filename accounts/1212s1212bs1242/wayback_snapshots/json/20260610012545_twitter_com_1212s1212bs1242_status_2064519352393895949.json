@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2064519278590889984"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2064519352393895949",
+    "created_at": "2026-06-10T01:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T02:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064519352393895949"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/moZx2DCx8F",
+          "end": 36,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2064519352393895949/video/1",
+          "media_key": "7_2064519278590889984",
+          "start": 13,
+          "url": "https://t.co/moZx2DCx8F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064519352393895949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啦啦啦，老农民的日常生活 https://t.co/moZx2DCx8F"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38639,
+        "height": 1280,
+        "media_key": "7_2064519278590889984",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2064519278590889984/pu/img/avO10n5ljXAZhM_5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064519278590889984/pu/vid/avc1/320x568/bhJMBM-cmU9o-FZj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064519278590889984/pu/vid/avc1/480x852/h8VOPNx_hsNLqMww.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064519278590889984/pu/vid/avc1/720x1280/xro9scgp69eWbfxB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2064519278590889984/pu/pl/LtMma0fTGt_H3veS.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064519278590889984"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2064519352393895949",
+        "created_at": "2026-06-10T01:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064519352393895949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/moZx2DCx8F",
+              "end": 36,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2064519352393895949/video/1",
+              "media_key": "7_2064519278590889984",
+              "start": 13,
+              "url": "https://t.co/moZx2DCx8F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064519352393895949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啦啦啦，老农民的日常生活 https://t.co/moZx2DCx8F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2063952495240753231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 889,
+          "like_count": 17713,
+          "listed_count": 1,
+          "media_count": 809,
+          "tweet_count": 9863
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

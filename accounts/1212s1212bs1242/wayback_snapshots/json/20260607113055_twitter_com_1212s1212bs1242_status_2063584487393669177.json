@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2063071862813491708",
+    "created_at": "2026-06-07T11:30:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T12:30:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063584487393669177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1768755544154845184",
+          "start": 0,
+          "username": "koitoyuuuuuuuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063584487393669177",
+    "in_reply_to_user_id": "1768755544154845184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063071862813491708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koitoyuuuuuuuuu 给我来根。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063071850708791296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGA6uea8AAoenY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2063071862813491708",
+        "created_at": "2026-06-07T11:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063584487393669177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768755544154845184",
+              "start": 0,
+              "username": "koitoyuuuuuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063584487393669177",
+        "in_reply_to_user_id": "1768755544154845184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063071862813491708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koitoyuuuuuuuuu 给我来根。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063071850708791296"
+          ]
+        },
+        "author_id": "1768755544154845184",
+        "conversation_id": "2063071862813491708",
+        "created_at": "2026-06-06T01:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T02:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063071862813491708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wTt16jpG1I",
+              "end": 26,
+              "expanded_url": "https://x.com/koitoyuuuuuuuuu/status/2063071862813491708/photo/1",
+              "media_key": "3_2063071850708791296",
+              "start": 3,
+              "url": "https://t.co/wTt16jpG1I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063071862813491708",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美味 https://t.co/wTt16jpG1I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2063091176224485768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 869,
+          "like_count": 17696,
+          "listed_count": 1,
+          "media_count": 776,
+          "tweet_count": 9780
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T21:46:16.000Z",
+        "description": "低浮上",
+        "id": "1768755544154845184",
+        "name": "こいとゆう",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062453971621703680/BxVAnM2g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 8,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 18
+        },
+        "username": "koitoyuuuuuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

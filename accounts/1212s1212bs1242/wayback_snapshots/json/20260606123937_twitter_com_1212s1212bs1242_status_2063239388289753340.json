@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2063239307964633088"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2063239388289753340",
+    "created_at": "2026-06-06T12:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T13:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063239388289753340"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/69LnVBztI2",
+          "end": 36,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2063239388289753340/video/1",
+          "media_key": "7_2063239307964633088",
+          "start": 13,
+          "url": "https://t.co/69LnVBztI2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063239388289753340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每天就在这里抖抖抖抖抖抖 https://t.co/69LnVBztI2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4351,
+        "height": 1280,
+        "media_key": "7_2063239307964633088",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063239307964633088/pu/img/brDeFQtrPoTlyWh0.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063239307964633088/pu/vid/avc1/320x568/A5Xm4oVzx1EcGtyY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063239307964633088/pu/vid/avc1/480x852/TvGcaUuhueefr_EJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063239307964633088/pu/vid/avc1/720x1280/AYc2EfPOT3KanXk5.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063239307964633088/pu/pl/8eVX_Q93JGA32KX4.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063239307964633088"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2063239388289753340",
+        "created_at": "2026-06-06T12:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063239388289753340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/69LnVBztI2",
+              "end": 36,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2063239388289753340/video/1",
+              "media_key": "7_2063239307964633088",
+              "start": 13,
+              "url": "https://t.co/69LnVBztI2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063239388289753340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天就在这里抖抖抖抖抖抖 https://t.co/69LnVBztI2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2063091176224485768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 855,
+          "like_count": 17689,
+          "listed_count": 1,
+          "media_count": 765,
+          "tweet_count": 9741
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

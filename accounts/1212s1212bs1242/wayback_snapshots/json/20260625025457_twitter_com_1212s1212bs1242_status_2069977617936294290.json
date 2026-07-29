@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2069977617936294290",
+    "created_at": "2026-06-25T02:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T03:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069977617936294290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yudia666/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/yudia666/status/2069975271487557741",
+          "start": 4,
+          "url": "https://t.co/PD9fTGdcqv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069977617936294290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069975271487557741",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "早上好 https://t.co/PD9fTGdcqv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2069977617936294290",
+        "created_at": "2026-06-25T02:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T03:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069977617936294290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yudia666/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/yudia666/status/2069975271487557741",
+              "start": 4,
+              "url": "https://t.co/PD9fTGdcqv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069977617936294290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069975271487557741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "早上好 https://t.co/PD9fTGdcqv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058029942198374400",
+        "conversation_id": "2069973249279328573",
+        "created_at": "2026-06-25T02:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T03:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069975271487557741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "1212s1212bs1242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069975271487557741",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069973249279328573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1212s1212bs1242 枣尚豪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "12是12",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12和他的小乌龟13",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069708575530700800/awHm2N_j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 936,
+          "like_count": 17184,
+          "listed_count": 1,
+          "media_count": 948,
+          "tweet_count": 10196
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T03:39:58.000Z",
+        "description": "年龄不详,性别:尸体,音乐重度依赖,最❤️的乐队:Crystal Castles,💊🍺🚬,碎碎念,负能量？几乎无精力主动社交,不要把我当傻逼,欢迎互关,看见有互关发帖就点赞tg:YUDAnb8964 /75",
+        "id": "2058029942198374400",
+        "location": "“第二の世界”",
+        "name": "𝖞𝖚𝖉𝖆",
+        "pinned_tweet_id": "2068835774074884255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068942921869758464/UJ-J2j84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 118,
+          "like_count": 4353,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 601
+        },
+        "url": "",
+        "username": "yudia666",
+        "verified": false
+      }
+    ]
+  }
+}

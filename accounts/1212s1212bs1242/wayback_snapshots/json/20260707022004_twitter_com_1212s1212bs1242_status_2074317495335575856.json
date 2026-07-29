@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074317492164673536"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2074317495335575856",
+    "created_at": "2026-07-07T02:20:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T03:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074317495335575856"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tGoyq0ywNn",
+          "end": 36,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2074317495335575856/photo/1",
+          "media_key": "3_2074317492164673536",
+          "start": 13,
+          "url": "https://t.co/tGoyq0ywNn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074317495335575856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这东西赏味期真的是六个月 https://t.co/tGoyq0ywNn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074317492164673536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMl0xNfawAAFyAW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074317492164673536"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074317495335575856",
+        "created_at": "2026-07-07T02:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074317495335575856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tGoyq0ywNn",
+              "end": 36,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2074317495335575856/photo/1",
+              "media_key": "3_2074317492164673536",
+              "start": 13,
+              "url": "https://t.co/tGoyq0ywNn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074317495335575856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这东西赏味期真的是六个月 https://t.co/tGoyq0ywNn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "12是12/没消息就是进牢了/单机/我只是一个缺爱的抽烟大丑b/欢迎跟我谈论现象学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074057741191274496/zsnHU4US_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 932,
+          "like_count": 17221,
+          "listed_count": 1,
+          "media_count": 1019,
+          "tweet_count": 10315
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

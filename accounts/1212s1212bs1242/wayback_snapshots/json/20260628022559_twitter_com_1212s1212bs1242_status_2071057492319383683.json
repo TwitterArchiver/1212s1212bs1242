@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2071057492319383683",
+    "created_at": "2026-06-28T02:25:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T03:25:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071057492319383683"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zaofushijian/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/zaofushijian/status/2071042198121152573",
+          "start": 11,
+          "url": "https://t.co/4VmNhU08Oh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071057492319383683",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071042198121152573",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只有我觉得很神圣吗？ https://t.co/4VmNhU08Oh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2071057492319383683",
+        "created_at": "2026-06-28T02:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T03:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071057492319383683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zaofushijian/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/zaofushijian/status/2071042198121152573",
+              "start": 11,
+              "url": "https://t.co/4VmNhU08Oh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071057492319383683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071042198121152573",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只有我觉得很神圣吗？ https://t.co/4VmNhU08Oh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858102501381414912",
+        "conversation_id": "2071038982478299261",
+        "created_at": "2026-06-28T01:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T02:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071042198121152573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "1212s1212bs1242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071042198121152573",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071038982478299261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1212s1212bs1242 标签何意味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "12是12/没消息就是进牢了/单机/我只是一个缺爱的抽烟大丑b",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069708575530700800/awHm2N_j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 938,
+          "like_count": 17219,
+          "listed_count": 1,
+          "media_count": 965,
+          "tweet_count": 10230
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T10:59:04.000Z",
+        "description": "是个男的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zaofushijian",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zaofushijian",
+                "start": 0,
+                "url": "https://t.co/ebFKJdXhsi"
+              }
+            ]
+          }
+        },
+        "id": "1858102501381414912",
+        "name": "天地一家大爱盟盟主🍥",
+        "pinned_tweet_id": "2061884741323018749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032824581589970948/U7rV0Nbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 209,
+          "like_count": 454,
+          "listed_count": 3,
+          "media_count": 1400,
+          "tweet_count": 9083
+        },
+        "url": "https://t.co/ebFKJdXhsi",
+        "username": "zaofushijian",
+        "verified": false
+      }
+    ]
+  }
+}

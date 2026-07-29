@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065726992234991616"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2065726998597792004",
+    "created_at": "2026-06-13T09:24:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T10:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065726998597792004"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HHsdkiVgZA",
+          "end": 42,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2065726998597792004/photo/1",
+          "media_key": "3_2065726992234991616",
+          "start": 19,
+          "url": "https://t.co/HHsdkiVgZA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065726998597792004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没看到，不知道是哪位小同学，非常感谢 https://t.co/HHsdkiVgZA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1115,
+        "media_key": "3_2065726992234991616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrvwTcaUAAcbAM.jpg",
+        "width": 1077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065726992234991616"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2065726998597792004",
+        "created_at": "2026-06-13T09:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065726998597792004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HHsdkiVgZA",
+              "end": 42,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2065726998597792004/photo/1",
+              "media_key": "3_2065726992234991616",
+              "start": 19,
+              "url": "https://t.co/HHsdkiVgZA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065726998597792004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没看到，不知道是哪位小同学，非常感谢 https://t.co/HHsdkiVgZA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "复活的亡灵，查成分互fo/大陆哲学爱好，最近想了解一下古典经济学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 910,
+          "like_count": 17339,
+          "listed_count": 1,
+          "media_count": 854,
+          "tweet_count": 10000
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

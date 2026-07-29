@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066146914509447168",
+        "7_2066146937007648768"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2066147348997444022",
+    "created_at": "2026-06-14T13:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066147348997444022"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/K3Lwmpzsp3",
+          "end": 35,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2066147348997444022/video/1",
+          "media_key": "3_2066146914509447168",
+          "start": 12,
+          "url": "https://t.co/K3Lwmpzsp3"
+        },
+        {
+          "display_url": "pic.x.com/K3Lwmpzsp3",
+          "end": 35,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2066147348997444022/video/1",
+          "media_key": "7_2066146937007648768",
+          "start": 12,
+          "url": "https://t.co/K3Lwmpzsp3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066147348997444022",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "咬半天才咬掉爆珠，晚安 https://t.co/K3Lwmpzsp3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2066146914509447168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxtq_0a4AAvEJj.jpg",
+        "width": 961
+      },
+      {
+        "duration_ms": 42289,
+        "height": 1280,
+        "media_key": "7_2066146937007648768",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066146937007648768/pu/img/w2wtLKyatmmn7a5t.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066146937007648768/pu/vid/avc1/320x568/PPX1HekOEy9UbH0m.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066146937007648768/pu/vid/avc1/480x852/2PCldQBO25lGidw4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066146937007648768/pu/vid/avc1/720x1280/hm_2VdRjS0yYIMky.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066146937007648768/pu/pl/78WZrq9H5FAByiw2.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066146914509447168",
+            "7_2066146937007648768"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2066147348997444022",
+        "created_at": "2026-06-14T13:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066147348997444022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K3Lwmpzsp3",
+              "end": 35,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2066147348997444022/video/1",
+              "media_key": "3_2066146914509447168",
+              "start": 12,
+              "url": "https://t.co/K3Lwmpzsp3"
+            },
+            {
+              "display_url": "pic.x.com/K3Lwmpzsp3",
+              "end": 35,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2066147348997444022/video/1",
+              "media_key": "7_2066146937007648768",
+              "start": 12,
+              "url": "https://t.co/K3Lwmpzsp3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066147348997444022",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咬半天才咬掉爆珠，晚安 https://t.co/K3Lwmpzsp3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟代/我要养只小乌龟/12",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12和他的小乌龟",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 924,
+          "like_count": 17338,
+          "listed_count": 1,
+          "media_count": 875,
+          "tweet_count": 10031
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

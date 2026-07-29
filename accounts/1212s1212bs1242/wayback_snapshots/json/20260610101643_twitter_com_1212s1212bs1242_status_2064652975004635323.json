@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064652967240953856"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2064652975004635323",
+    "created_at": "2026-06-10T10:16:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:16:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064652975004635323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3kodgA3ZnB",
+          "end": 36,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2064652975004635323/photo/1",
+          "media_key": "3_2064652967240953856",
+          "start": 13,
+          "url": "https://t.co/3kodgA3ZnB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064652975004635323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "张雪峰老师，我还记得你~ https://t.co/3kodgA3ZnB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064652967240953856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKce70jacAAcfNU.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064652967240953856"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2064652975004635323",
+        "created_at": "2026-06-10T10:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064652975004635323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3kodgA3ZnB",
+              "end": 36,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2064652975004635323/photo/1",
+              "media_key": "3_2064652967240953856",
+              "start": 13,
+              "url": "https://t.co/3kodgA3ZnB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064652975004635323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "张雪峰老师，我还记得你~ https://t.co/3kodgA3ZnB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo/大陆哲学爱好，最近想了解一下古典经济学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2063952495240753231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 888,
+          "like_count": 17715,
+          "listed_count": 1,
+          "media_count": 812,
+          "tweet_count": 9871
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

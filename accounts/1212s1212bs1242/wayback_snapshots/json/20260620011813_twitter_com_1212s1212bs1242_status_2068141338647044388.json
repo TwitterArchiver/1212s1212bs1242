@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068141328765276160",
+        "3_2068141332464553984"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2068141338647044388",
+    "created_at": "2026-06-20T01:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T02:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068141338647044388"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sz4jNyOyep",
+          "end": 26,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2068141338647044388/photo/1",
+          "media_key": "3_2068141328765276160",
+          "start": 3,
+          "url": "https://t.co/Sz4jNyOyep"
+        },
+        {
+          "display_url": "pic.x.com/Sz4jNyOyep",
+          "end": 26,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2068141338647044388/photo/1",
+          "media_key": "3_2068141332464553984",
+          "start": 3,
+          "url": "https://t.co/Sz4jNyOyep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068141338647044388",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "早啊 https://t.co/Sz4jNyOyep"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068141328765276160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLODlL5b0AAuNhQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068141332464553984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLODlZraUAAr1C1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068141328765276160",
+            "3_2068141332464553984"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2068141338647044388",
+        "created_at": "2026-06-20T01:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068141338647044388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sz4jNyOyep",
+              "end": 26,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2068141338647044388/photo/1",
+              "media_key": "3_2068141328765276160",
+              "start": 3,
+              "url": "https://t.co/Sz4jNyOyep"
+            },
+            {
+              "display_url": "pic.x.com/Sz4jNyOyep",
+              "end": 26,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2068141338647044388/photo/1",
+              "media_key": "3_2068141332464553984",
+              "start": 3,
+              "url": "https://t.co/Sz4jNyOyep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068141338647044388",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早啊 https://t.co/Sz4jNyOyep"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟代/我要养只小乌龟/12",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12和他的小乌龟13",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066730626359975937/f_62LuDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 938,
+          "like_count": 17176,
+          "listed_count": 1,
+          "media_count": 918,
+          "tweet_count": 10122
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2064227091114315777"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2064227276640952388",
+    "created_at": "2026-06-09T06:05:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T07:05:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064227276640952388"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3CjgClxOz6",
+          "end": 32,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2064227276640952388/video/1",
+          "media_key": "7_2064227091114315777",
+          "start": 9,
+          "url": "https://t.co/3CjgClxOz6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064227276640952388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无聊又漫长的日常 https://t.co/3CjgClxOz6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27936,
+        "height": 1280,
+        "media_key": "7_2064227091114315777",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2064227091114315777/pu/img/vDyyZ4h1BlGyWw-T.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064227091114315777/pu/vid/avc1/320x568/eglYrbTN8jqUrw4a.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064227091114315777/pu/vid/avc1/480x852/pu0TJLeZJQ9ue1v7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064227091114315777/pu/vid/avc1/720x1280/owCR4IJKUhpOyysx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2064227091114315777/pu/pl/DWQk1zX53AgoLmW_.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064227091114315777"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2064227276640952388",
+        "created_at": "2026-06-09T06:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064227276640952388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3CjgClxOz6",
+              "end": 32,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2064227276640952388/video/1",
+              "media_key": "7_2064227091114315777",
+              "start": 9,
+              "url": "https://t.co/3CjgClxOz6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064227276640952388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无聊又漫长的日常 https://t.co/3CjgClxOz6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2063952495240753231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 882,
+          "like_count": 17705,
+          "listed_count": 1,
+          "media_count": 798,
+          "tweet_count": 9842
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

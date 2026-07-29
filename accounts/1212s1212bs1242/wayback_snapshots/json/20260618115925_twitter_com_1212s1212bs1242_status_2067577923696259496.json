@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067577921590677504"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2067577923696259496",
+    "created_at": "2026-06-18T11:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067577923696259496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RhigfVqZEa",
+          "end": 26,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2067577923696259496/photo/1",
+          "media_key": "3_2067577921590677504",
+          "start": 3,
+          "url": "https://t.co/RhigfVqZEa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067577923696259496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "耍起 https://t.co/RhigfVqZEa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 392,
+        "media_key": "3_2067577921590677504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGDKknaUAAA7Kr.jpg",
+        "width": 721
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067577921590677504"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2067577923696259496",
+        "created_at": "2026-06-18T11:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067577923696259496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RhigfVqZEa",
+              "end": 26,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2067577923696259496/photo/1",
+              "media_key": "3_2067577921590677504",
+              "start": 3,
+              "url": "https://t.co/RhigfVqZEa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067577923696259496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "耍起 https://t.co/RhigfVqZEa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟代，d电子烟，韩产小甜烟d/我要养只小乌龟/12",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12和他的小乌龟13",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066730626359975937/f_62LuDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 938,
+          "like_count": 17227,
+          "listed_count": 1,
+          "media_count": 908,
+          "tweet_count": 10099
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

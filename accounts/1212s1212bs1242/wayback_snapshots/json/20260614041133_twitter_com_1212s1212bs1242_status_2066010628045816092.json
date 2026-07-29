@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066010625386647552"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2066010628045816092",
+    "created_at": "2026-06-14T04:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T05:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066010628045816092"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dzx75TRTEH",
+          "end": 31,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2066010628045816092/photo/1",
+          "media_key": "3_2066010625386647552",
+          "start": 8,
+          "url": "https://t.co/dzx75TRTEH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066010628045816092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哪里都奇怪吧！ https://t.co/dzx75TRTEH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066010625386647552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvxt7RakAApYAS.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066010625386647552"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2066010628045816092",
+        "created_at": "2026-06-14T04:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066010628045816092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dzx75TRTEH",
+              "end": 31,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2066010628045816092/photo/1",
+              "media_key": "3_2066010625386647552",
+              "start": 8,
+              "url": "https://t.co/dzx75TRTEH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066010628045816092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪里都奇怪吧！ https://t.co/dzx75TRTEH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "复活的亡灵，查成分互fo/大陆哲学爱好，最近想了解一下古典经济学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 919,
+          "like_count": 17337,
+          "listed_count": 1,
+          "media_count": 859,
+          "tweet_count": 10007
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

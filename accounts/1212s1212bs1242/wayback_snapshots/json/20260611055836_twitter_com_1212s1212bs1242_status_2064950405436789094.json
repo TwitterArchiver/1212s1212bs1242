@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064934816571887616"
+      ],
+      "media_source_tweet_id": [
+        "2064934825086349481"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2064950405436789094",
+    "created_at": "2026-06-11T05:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T06:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064950405436789094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1577362467419611137",
+          "start": 3,
+          "username": "Retepa555"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NgUjXkjDIN",
+          "end": 45,
+          "expanded_url": "https://x.com/Retepa555/status/2064934825086349481/photo/1",
+          "media_key": "3_2064934816571887616",
+          "start": 22,
+          "url": "https://t.co/NgUjXkjDIN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064950405436789094",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064934825086349481",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Retepa555: 发布任务好吧 https://t.co/NgUjXkjDIN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064934816571887616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgfRnIakAA1zhq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064934816571887616"
+          ],
+          "media_source_tweet_id": [
+            "2064934825086349481"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064950405436789094",
+        "created_at": "2026-06-11T05:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064950405436789094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1577362467419611137",
+              "start": 3,
+              "username": "Retepa555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NgUjXkjDIN",
+              "end": 45,
+              "expanded_url": "https://x.com/Retepa555/status/2064934825086349481/photo/1",
+              "media_key": "3_2064934816571887616",
+              "start": 22,
+              "url": "https://t.co/NgUjXkjDIN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064950405436789094",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064934825086349481",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Retepa555: 发布任务好吧 https://t.co/NgUjXkjDIN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064934816571887616"
+          ]
+        },
+        "author_id": "1577362467419611137",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064934825086349481",
+        "created_at": "2026-06-11T04:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064934825086349481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NgUjXkjDIN",
+              "end": 30,
+              "expanded_url": "https://x.com/Retepa555/status/2064934825086349481/photo/1",
+              "media_key": "3_2064934816571887616",
+              "start": 7,
+              "url": "https://t.co/NgUjXkjDIN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064934825086349481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "发布任务好吧 https://t.co/NgUjXkjDIN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo/大陆哲学爱好，最近想了解一下古典经济学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2064598365963464812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 891,
+          "like_count": 17563,
+          "listed_count": 1,
+          "media_count": 820,
+          "tweet_count": 9904
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T18:18:25.000Z",
+        "description": "＝阿瓜｜pc街机/都市传说/文史哲艺爱好者/ccru/社民/机械飞升/生理女 友好一切/民科/后现代/神必学游客/oder/查成分互fo｜只是互联网幽灵\n\n👁你們怎麼辦，只有天知道。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/retepa555",
+                "end": 23,
+                "expanded_url": "https://ngl.link/retepa555",
+                "start": 0,
+                "url": "https://t.co/i8FVzhF71c"
+              }
+            ]
+          }
+        },
+        "id": "1577362467419611137",
+        "location": "第三高原",
+        "name": "無機質水樂",
+        "pinned_tweet_id": "2008084757700395499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009666622110531584/OB6tshlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 811,
+          "like_count": 23972,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 1954
+        },
+        "url": "https://t.co/i8FVzhF71c",
+        "username": "Retepa555",
+        "verified": false
+      }
+    ]
+  }
+}

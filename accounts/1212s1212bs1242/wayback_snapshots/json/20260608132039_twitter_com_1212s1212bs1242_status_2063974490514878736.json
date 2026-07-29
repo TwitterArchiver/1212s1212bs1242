@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2063974416539914240"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2063974490514878736",
+    "created_at": "2026-06-08T13:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T14:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063974490514878736"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QPKuMM9s5x",
+          "end": 23,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2063974490514878736/video/1",
+          "media_key": "7_2063974416539914240",
+          "start": 0,
+          "url": "https://t.co/QPKuMM9s5x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063974490514878736",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/QPKuMM9s5x"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38965,
+        "height": 1280,
+        "media_key": "7_2063974416539914240",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063974416539914240/pu/img/LQFtFt70WAd8wFAd.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063974416539914240/pu/vid/avc1/320x568/CNLP388WGfmLwZgB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063974416539914240/pu/vid/avc1/480x852/P-ahJvTDIDILeLMj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063974416539914240/pu/vid/avc1/720x1280/lxw7o-79u1zy4Zyt.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063974416539914240/pu/pl/3wqkXcRcvEcfLmi5.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063974416539914240"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2063974490514878736",
+        "created_at": "2026-06-08T13:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063974490514878736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QPKuMM9s5x",
+              "end": 23,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2063974490514878736/video/1",
+              "media_key": "7_2063974416539914240",
+              "start": 0,
+              "url": "https://t.co/QPKuMM9s5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063974490514878736",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QPKuMM9s5x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2063952495240753231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 872,
+          "like_count": 17705,
+          "listed_count": 1,
+          "media_count": 791,
+          "tweet_count": 9823
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

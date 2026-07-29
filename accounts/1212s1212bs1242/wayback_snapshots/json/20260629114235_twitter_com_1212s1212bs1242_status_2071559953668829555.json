@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2071559953668829555",
+    "created_at": "2026-06-29T11:42:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T12:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071559953668829555"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yudia666/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/yudia666/status/2071559172257468761",
+          "start": 6,
+          "url": "https://t.co/Xl2xTIttFn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071559953668829555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071559172257468761",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我还真买了 https://t.co/Xl2xTIttFn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2071559953668829555",
+        "created_at": "2026-06-29T11:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071559953668829555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yudia666/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/yudia666/status/2071559172257468761",
+              "start": 6,
+              "url": "https://t.co/Xl2xTIttFn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071559953668829555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071559172257468761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还真买了 https://t.co/Xl2xTIttFn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058029942198374400",
+        "conversation_id": "2071558514477289924",
+        "created_at": "2026-06-29T11:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071559172257468761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "1212s1212bs1242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071559172257468761",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071558514477289924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1212s1212bs1242 相思树苗吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "12是12/没消息就是进牢了/单机/我只是一个缺爱的抽烟大丑b",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069708575530700800/awHm2N_j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 941,
+          "like_count": 17232,
+          "listed_count": 1,
+          "media_count": 974,
+          "tweet_count": 10251
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T03:39:58.000Z",
+        "description": "年龄不详,性别:尸体,音乐重度依赖,最❤️的乐队:Crystal Castles,💊🍺🚬,碎碎念,负能量？几乎无精力主动社交,不要把我当傻逼,欢迎互关\nfo,看见有互关发帖就点赞tg:YUDAnb8964 /109",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuda21436",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuda21436",
+                "start": 0,
+                "url": "https://t.co/BUKnKIH0FA"
+              }
+            ]
+          }
+        },
+        "id": "2058029942198374400",
+        "location": "“第二の世界”",
+        "name": "𝖞𝖚𝖉𝖆",
+        "pinned_tweet_id": "2070860527086317741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068942921869758464/UJ-J2j84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 130,
+          "like_count": 6712,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 827
+        },
+        "url": "https://t.co/BUKnKIH0FA",
+        "username": "yudia666",
+        "verified": false
+      }
+    ]
+  }
+}

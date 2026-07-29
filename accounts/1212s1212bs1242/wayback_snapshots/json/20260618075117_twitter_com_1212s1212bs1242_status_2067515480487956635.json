@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2067515480487956635",
+    "created_at": "2026-06-18T07:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T08:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067515480487956635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2015139430030598144",
+          "start": 3,
+          "username": "Perk_killz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067515480487956635",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1081
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067132568978457057",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Perk_killz: el suicidio se ve mejor ke mi futuro d mierda"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2067515480487956635",
+        "created_at": "2026-06-18T07:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067515480487956635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2015139430030598144",
+              "start": 3,
+              "username": "Perk_killz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067515480487956635",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1081
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067132568978457057",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Perk_killz: el suicidio se ve mejor ke mi futuro d mierda"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015139430030598144",
+        "conversation_id": "2067132568978457057",
+        "created_at": "2026-06-17T06:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T07:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067132568978457057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067132568978457057",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 33541,
+          "like_count": 2874,
+          "quote_count": 13,
+          "reply_count": 11,
+          "retweet_count": 1081
+        },
+        "reply_settings": "everyone",
+        "text": "el suicidio se ve mejor ke mi futuro d mierda"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟代，d电子烟，韩产小甜烟d/我要养只小乌龟/12",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12和他的小乌龟13",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066730626359975937/f_62LuDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 938,
+          "like_count": 17228,
+          "listed_count": 1,
+          "media_count": 907,
+          "tweet_count": 10096
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T19:07:56.000Z",
+        "description": "Línea kannabica en Spotify\nig: Línea Kannab1ka\nIg 2: Prettiboiswag2008",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/artist/0j3FQgf…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/artist/0j3FQgfu0r04FLwhZsGuSU?si=lfJSn4qgTuKPPwiEWchoDg",
+                "start": 0,
+                "url": "https://t.co/BX68h0S8yA"
+              }
+            ]
+          }
+        },
+        "id": "2015139430030598144",
+        "name": "Perc_Killz",
+        "pinned_tweet_id": "2067132568978457057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067462661957128192/ZFv8U0ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 99
+        },
+        "url": "https://t.co/BX68h0S8yA",
+        "username": "Perk_killz",
+        "verified": false
+      }
+    ]
+  }
+}

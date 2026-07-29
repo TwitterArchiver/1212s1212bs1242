@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064296634658566144",
+        "7_2064296666392629248"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2064296727579107689",
+    "created_at": "2026-06-09T10:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T11:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064296727579107689"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ogCqOrbhda",
+          "end": 32,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2064296727579107689/video/1",
+          "media_key": "3_2064296634658566144",
+          "start": 9,
+          "url": "https://t.co/ogCqOrbhda"
+        },
+        {
+          "display_url": "pic.x.com/ogCqOrbhda",
+          "end": 32,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2064296727579107689/video/1",
+          "media_key": "7_2064296666392629248",
+          "start": 9,
+          "url": "https://t.co/ogCqOrbhda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064296727579107689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所有人晚上一根烟 https://t.co/ogCqOrbhda"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064296634658566144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXa2iPbsAAUWEI.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 31866,
+        "height": 1280,
+        "media_key": "7_2064296666392629248",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2064296666392629248/pu/img/KuYHbLA8UEMqb9hQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064296666392629248/pu/vid/avc1/320x568/BNQ3UB8TnxSC4r_K.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064296666392629248/pu/vid/avc1/480x852/-Vc9jc4mbo9GqnW5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064296666392629248/pu/vid/avc1/720x1280/2YkkUqouz4qLCysB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2064296666392629248/pu/pl/hMQeKomapaqIAqoP.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064296634658566144",
+            "7_2064296666392629248"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2064296727579107689",
+        "created_at": "2026-06-09T10:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T11:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064296727579107689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ogCqOrbhda",
+              "end": 32,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2064296727579107689/video/1",
+              "media_key": "3_2064296634658566144",
+              "start": 9,
+              "url": "https://t.co/ogCqOrbhda"
+            },
+            {
+              "display_url": "pic.x.com/ogCqOrbhda",
+              "end": 32,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2064296727579107689/video/1",
+              "media_key": "7_2064296666392629248",
+              "start": 9,
+              "url": "https://t.co/ogCqOrbhda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064296727579107689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人晚上一根烟 https://t.co/ogCqOrbhda"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2063952495240753231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 886,
+          "like_count": 17711,
+          "listed_count": 1,
+          "media_count": 805,
+          "tweet_count": 9859
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064594156866129920"
+      ],
+      "media_source_tweet_id": [
+        "2064594169386127401"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2064596505928118779",
+    "created_at": "2026-06-10T06:32:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T07:32:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064596505928118779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2064591194139901952",
+          "start": 3,
+          "username": "OHOHOH321"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vxBh8oo90L",
+          "end": 87,
+          "expanded_url": "https://x.com/OHOHOH321/status/2064594169386127401/photo/1",
+          "media_key": "3_2064594156866129920",
+          "start": 64,
+          "url": "https://t.co/vxBh8oo90L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064596505928118779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064594169386127401",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OHOHOH321: 我是AAA.飞蛾批发商，前世被奸人所害今日寻回互fo！希望看到我的人能转一下我的帖子...... https://t.co/vxBh8oo90L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2064594156866129920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbpcm1aUAA75bT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064594156866129920"
+          ],
+          "media_source_tweet_id": [
+            "2064594169386127401"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2064596505928118779",
+        "created_at": "2026-06-10T06:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064596505928118779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2064591194139901952",
+              "start": 3,
+              "username": "OHOHOH321"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vxBh8oo90L",
+              "end": 87,
+              "expanded_url": "https://x.com/OHOHOH321/status/2064594169386127401/photo/1",
+              "media_key": "3_2064594156866129920",
+              "start": 64,
+              "url": "https://t.co/vxBh8oo90L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064596505928118779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064594169386127401",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OHOHOH321: 我是AAA.飞蛾批发商，前世被奸人所害今日寻回互fo！希望看到我的人能转一下我的帖子...... https://t.co/vxBh8oo90L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064594156866129920"
+          ]
+        },
+        "author_id": "2064591194139901952",
+        "conversation_id": "2064594169386127401",
+        "created_at": "2026-06-10T06:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064594169386127401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vxBh8oo90L",
+              "end": 72,
+              "expanded_url": "https://x.com/OHOHOH321/status/2064594169386127401/photo/1",
+              "media_key": "3_2064594156866129920",
+              "start": 49,
+              "url": "https://t.co/vxBh8oo90L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064594169386127401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是AAA.飞蛾批发商，前世被奸人所害今日寻回互fo！希望看到我的人能转一下我的帖子...... https://t.co/vxBh8oo90L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo/大陆哲学爱好，最近想了解一下古典经济学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2063952495240753231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 890,
+          "like_count": 17715,
+          "listed_count": 1,
+          "media_count": 810,
+          "tweet_count": 9869
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T06:12:58.000Z",
+        "description": "",
+        "id": "2064591194139901952",
+        "name": "syc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064596030130380800/_D1GWhGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 50,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "username": "OHOHOH321",
+        "verified": false
+      }
+    ]
+  }
+}

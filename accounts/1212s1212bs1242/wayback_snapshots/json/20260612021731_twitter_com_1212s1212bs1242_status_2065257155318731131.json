@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065252024376070144"
+      ],
+      "media_source_tweet_id": [
+        "2065252038326260110"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2065257155318731131",
+    "created_at": "2026-06-12T02:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T03:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065257155318731131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1368194606555262978",
+          "start": 3,
+          "username": "jiajiajia0104"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ihPDQWHiri",
+          "end": 44,
+          "expanded_url": "https://x.com/jiajiajia0104/status/2065252038326260110/photo/1",
+          "media_key": "3_2065252024376070144",
+          "start": 21,
+          "url": "https://t.co/ihPDQWHiri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065257155318731131",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065252038326260110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiajiajia0104: 🥲 https://t.co/ihPDQWHiri"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2065257155318731131].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2065257155318731131",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2065257155318731131"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2065252024376070144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKk_xiSXkAAHU6N.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065252024376070144"
+          ]
+        },
+        "author_id": "1368194606555262978",
+        "conversation_id": "2065252038326260110",
+        "created_at": "2026-06-12T01:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T02:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065252038326260110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ihPDQWHiri",
+              "end": 25,
+              "expanded_url": "https://x.com/jiajiajia0104/status/2065252038326260110/photo/1",
+              "media_key": "3_2065252024376070144",
+              "start": 2,
+              "url": "https://t.co/ihPDQWHiri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065252038326260110",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🥲 https://t.co/ihPDQWHiri"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo/大陆哲学爱好，最近想了解一下古典经济学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2065019132110872592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 901,
+          "like_count": 17286,
+          "listed_count": 1,
+          "media_count": 832,
+          "tweet_count": 9928
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-06T13:39:54.000Z",
+        "description": "碎碎念",
+        "id": "1368194606555262978",
+        "location": "地球",
+        "name": "Y:omi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027015555694424064/Iee6Zrfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 161,
+          "like_count": 3388,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 1101
+        },
+        "username": "jiajiajia0104",
+        "verified": false
+      }
+    ]
+  }
+}

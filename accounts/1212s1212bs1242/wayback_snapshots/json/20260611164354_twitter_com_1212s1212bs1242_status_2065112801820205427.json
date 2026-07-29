@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2065109168298889297",
+    "created_at": "2026-06-11T16:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T17:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065112801820205427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1677369315388174336",
+          "start": 0,
+          "username": "UR_Part_of_Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065112801820205427",
+    "in_reply_to_user_id": "1677369315388174336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065112565378588903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UR_Part_of_Me 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2065109168298889297",
+        "created_at": "2026-06-11T16:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065112801820205427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1677369315388174336",
+              "start": 0,
+              "username": "UR_Part_of_Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065112801820205427",
+        "in_reply_to_user_id": "1677369315388174336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065112565378588903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UR_Part_of_Me 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677369315388174336",
+        "conversation_id": "2065109168298889297",
+        "created_at": "2026-06-11T16:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065112565378588903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "1212s1212bs1242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065112565378588903",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065109168298889297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1212s1212bs1242 祝你生日快乐🎂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo/大陆哲学爱好，最近想了解一下古典经济学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2065019132110872592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 894,
+          "like_count": 17232,
+          "listed_count": 1,
+          "media_count": 827,
+          "tweet_count": 9917
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T17:29:58.000Z",
+        "description": "最爱听@soulboy_KFong",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "soulboy_KFong"
+              }
+            ]
+          }
+        },
+        "id": "1677369315388174336",
+        "location": "不存在",
+        "name": "AAA人类观测员鱼蛋🍋",
+        "pinned_tweet_id": "2053357613640028211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046082330608259072/trWy5rdj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 129,
+          "like_count": 11066,
+          "listed_count": 2,
+          "media_count": 462,
+          "tweet_count": 3902
+        },
+        "username": "UR_Part_of_Me",
+        "verified": true
+      }
+    ]
+  }
+}

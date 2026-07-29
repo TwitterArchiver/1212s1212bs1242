@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067592712669577216"
+      ],
+      "media_source_tweet_id": [
+        "2067592722438054105"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2068134963137159634",
+    "created_at": "2026-06-20T00:52:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T01:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068134963137159634"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 32,
+          "tag": "りっちゃんといっしよ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2314715574",
+          "start": 3,
+          "username": "Aishiro_cn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fwMXyN1lVF",
+          "end": 67,
+          "expanded_url": "https://x.com/Aishiro_cn/status/2067592722438054105/photo/1",
+          "media_key": "3_2067592712669577216",
+          "start": 44,
+          "url": "https://t.co/fwMXyN1lVF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068134963137159634",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067592722438054105",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aishiro_cn: 最近中国で人気らしいアイス🍦🤔\n#りっちゃんといっしよ https://t.co/fwMXyN1lVF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2067592712669577216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGQnhrbQAACUSu.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067592712669577216"
+          ],
+          "media_source_tweet_id": [
+            "2067592722438054105"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068134963137159634",
+        "created_at": "2026-06-20T00:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T01:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068134963137159634"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 32,
+              "tag": "りっちゃんといっしよ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2314715574",
+              "start": 3,
+              "username": "Aishiro_cn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwMXyN1lVF",
+              "end": 67,
+              "expanded_url": "https://x.com/Aishiro_cn/status/2067592722438054105/photo/1",
+              "media_key": "3_2067592712669577216",
+              "start": 44,
+              "url": "https://t.co/fwMXyN1lVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068134963137159634",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067592722438054105",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aishiro_cn: 最近中国で人気らしいアイス🍦🤔\n#りっちゃんといっしよ https://t.co/fwMXyN1lVF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067592712669577216"
+          ]
+        },
+        "author_id": "2314715574",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067592722438054105",
+        "created_at": "2026-06-18T12:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067592722438054105"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 16,
+              "tag": "りっちゃんといっしよ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwMXyN1lVF",
+              "end": 51,
+              "expanded_url": "https://x.com/Aishiro_cn/status/2067592722438054105/photo/1",
+              "media_key": "3_2067592712669577216",
+              "start": 28,
+              "url": "https://t.co/fwMXyN1lVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067592722438054105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 207,
+          "impression_count": 357859,
+          "like_count": 3794,
+          "quote_count": 20,
+          "reply_count": 557,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "最近中国で人気らしいアイス🍦🤔\n#りっちゃんといっしよ https://t.co/fwMXyN1lVF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟代/我要养只小乌龟/12",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12和他的小乌龟13",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066730626359975937/f_62LuDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 937,
+          "like_count": 17176,
+          "listed_count": 1,
+          "media_count": 917,
+          "tweet_count": 10121
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-28T02:36:06.000Z",
+        "description": "中国のイベンター「遠征勢」┃夢限大みゅーたいぷ → 峰月律 · 前橋ウィッチーズ → 春日さくら · RAISE A SUILEN · 鈴木このみ · クインテ · ななすぺ",
+        "id": "2314715574",
+        "name": "藍白🎵🐻🎸",
+        "pinned_tweet_id": "2034911213709332744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886663259207696384/Sxmf1OuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 912,
+          "like_count": 10036,
+          "listed_count": 3,
+          "media_count": 465,
+          "tweet_count": 2465
+        },
+        "url": "",
+        "username": "Aishiro_cn",
+        "verified": false
+      }
+    ]
+  }
+}

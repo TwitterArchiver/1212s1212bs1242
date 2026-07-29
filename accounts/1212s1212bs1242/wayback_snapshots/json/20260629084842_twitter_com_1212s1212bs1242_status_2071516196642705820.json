@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071516192280625152",
+        "3_2071516191655641088",
+        "3_2071516193341788160"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2071516196642705820",
+    "created_at": "2026-06-29T08:48:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T09:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071516196642705820"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1AvyogNuRo",
+          "end": 56,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2071516196642705820/photo/1",
+          "media_key": "3_2071516192280625152",
+          "start": 33,
+          "url": "https://t.co/1AvyogNuRo"
+        },
+        {
+          "display_url": "pic.x.com/1AvyogNuRo",
+          "end": 56,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2071516196642705820/photo/1",
+          "media_key": "3_2071516191655641088",
+          "start": 33,
+          "url": "https://t.co/1AvyogNuRo"
+        },
+        {
+          "display_url": "pic.x.com/1AvyogNuRo",
+          "end": 56,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2071516196642705820/photo/1",
+          "media_key": "3_2071516193341788160",
+          "start": 33,
+          "url": "https://t.co/1AvyogNuRo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071516196642705820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的有很多袜子，不过穿起来都不太合身了就是了，连裤袜穿成过膝袜 https://t.co/1AvyogNuRo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2071516192280625152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-BAGNbQAAIWme.jpg",
+        "width": 964
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2071516191655641088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-BAD4awAAYJRs.jpg",
+        "width": 964
+      },
+      {
+        "height": 964,
+        "media_key": "3_2071516193341788160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-BAKKbUAA5s6i.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071516192280625152",
+            "3_2071516191655641088",
+            "3_2071516193341788160"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2071516196642705820",
+        "created_at": "2026-06-29T08:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071516196642705820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1AvyogNuRo",
+              "end": 56,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2071516196642705820/photo/1",
+              "media_key": "3_2071516192280625152",
+              "start": 33,
+              "url": "https://t.co/1AvyogNuRo"
+            },
+            {
+              "display_url": "pic.x.com/1AvyogNuRo",
+              "end": 56,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2071516196642705820/photo/1",
+              "media_key": "3_2071516191655641088",
+              "start": 33,
+              "url": "https://t.co/1AvyogNuRo"
+            },
+            {
+              "display_url": "pic.x.com/1AvyogNuRo",
+              "end": 56,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2071516196642705820/photo/1",
+              "media_key": "3_2071516193341788160",
+              "start": 33,
+              "url": "https://t.co/1AvyogNuRo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071516196642705820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的有很多袜子，不过穿起来都不太合身了就是了，连裤袜穿成过膝袜 https://t.co/1AvyogNuRo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "12是12/没消息就是进牢了/单机/我只是一个缺爱的抽烟大丑b",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069708575530700800/awHm2N_j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 941,
+          "like_count": 17230,
+          "listed_count": 1,
+          "media_count": 973,
+          "tweet_count": 10247
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2070828457333031213",
+    "created_at": "2026-06-27T11:15:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T12:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070828457333031213"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eclia121739922…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/eclia121739922/status/2070826162742607913",
+          "start": 3,
+          "url": "https://t.co/ZcIBzPGHVj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070828457333031213",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070826162742607913",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "l？ https://t.co/ZcIBzPGHVj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2070828457333031213",
+        "created_at": "2026-06-27T11:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070828457333031213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eclia121739922…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/eclia121739922/status/2070826162742607913",
+              "start": 3,
+              "url": "https://t.co/ZcIBzPGHVj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070828457333031213",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070826162742607913",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "l？ https://t.co/ZcIBzPGHVj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742117453809725440",
+        "conversation_id": "2070781857147605273",
+        "created_at": "2026-06-27T11:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070826162742607913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "1212s1212bs1242"
+            },
+            {
+              "end": 28,
+              "id": "1829867271592026112",
+              "start": 17,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070826162742607913",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070781857147605273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1212s1212bs1242 @Shivam3228 🈷️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "12是12/没消息就是进牢了/单机",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069708575530700800/awHm2N_j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 937,
+          "like_count": 17214,
+          "listed_count": 1,
+          "media_count": 962,
+          "tweet_count": 10222
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T09:35:55.000Z",
+        "description": "玉玉/精分/08/我是冰西瓜/mtx🍥/伪娘全肯定（x/神圣放逐 黑柿子一生推/随机掉落cos/高p区",
+        "id": "1742117453809725440",
+        "location": "世界渴望之城",
+        "name": "eeeee",
+        "pinned_tweet_id": "1935795793702891698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048731687841067008/0W1jpoWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 329,
+          "like_count": 2015,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 977
+        },
+        "url": "",
+        "username": "eclia121739922",
+        "verified": false
+      }
+    ]
+  }
+}

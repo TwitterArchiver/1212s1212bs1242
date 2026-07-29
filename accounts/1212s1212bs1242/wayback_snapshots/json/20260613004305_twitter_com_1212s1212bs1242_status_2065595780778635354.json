@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065595643889176576",
+        "3_2065595645944348672",
+        "7_2065595660511145984"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2065595780778635354",
+    "created_at": "2026-06-13T00:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T01:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065595780778635354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gyAeiWhSXn",
+          "end": 35,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2065595780778635354/video/1",
+          "media_key": "3_2065595643889176576",
+          "start": 12,
+          "url": "https://t.co/gyAeiWhSXn"
+        },
+        {
+          "display_url": "pic.x.com/gyAeiWhSXn",
+          "end": 35,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2065595780778635354/video/1",
+          "media_key": "3_2065595645944348672",
+          "start": 12,
+          "url": "https://t.co/gyAeiWhSXn"
+        },
+        {
+          "display_url": "pic.x.com/gyAeiWhSXn",
+          "end": 35,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2065595780778635354/video/1",
+          "media_key": "7_2065595660511145984",
+          "start": 12,
+          "url": "https://t.co/gyAeiWhSXn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065595780778635354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不算太日常的老农民日常 https://t.co/gyAeiWhSXn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 964,
+        "media_key": "3_2065595643889176576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKp4S0ub0AAiPCH.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065595645944348672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKp4S8YbQAA_ssG.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 27822,
+        "height": 1280,
+        "media_key": "7_2065595660511145984",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2065595660511145984/pu/img/xt9T4Fz0uxo06KEj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065595660511145984/pu/vid/avc1/320x568/hN1O0KL80B3dVZ5v.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065595660511145984/pu/vid/avc1/480x852/LqYc26zMxXAh21V-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065595660511145984/pu/vid/avc1/720x1280/gNT3NAwESI-IT0l8.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2065595660511145984/pu/pl/Zn3KqRCFjRuogD5_.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065595643889176576",
+            "3_2065595645944348672",
+            "7_2065595660511145984"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2065595780778635354",
+        "created_at": "2026-06-13T00:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065595780778635354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gyAeiWhSXn",
+              "end": 35,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2065595780778635354/video/1",
+              "media_key": "3_2065595643889176576",
+              "start": 12,
+              "url": "https://t.co/gyAeiWhSXn"
+            },
+            {
+              "display_url": "pic.x.com/gyAeiWhSXn",
+              "end": 35,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2065595780778635354/video/1",
+              "media_key": "3_2065595645944348672",
+              "start": 12,
+              "url": "https://t.co/gyAeiWhSXn"
+            },
+            {
+              "display_url": "pic.x.com/gyAeiWhSXn",
+              "end": 35,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2065595780778635354/video/1",
+              "media_key": "7_2065595660511145984",
+              "start": 12,
+              "url": "https://t.co/gyAeiWhSXn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065595780778635354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不算太日常的老农民日常 https://t.co/gyAeiWhSXn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo/大陆哲学爱好，最近想了解一下古典经济学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 909,
+          "like_count": 17336,
+          "listed_count": 1,
+          "media_count": 848,
+          "tweet_count": 9989
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

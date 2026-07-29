@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067415035924873217",
+        "7_2067415027037204481"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2067415114148610480",
+    "created_at": "2026-06-18T01:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T02:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067415114148610480"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3UMX3ZBQwv",
+          "end": 37,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2067415114148610480/video/1",
+          "media_key": "3_2067415035924873217",
+          "start": 14,
+          "url": "https://t.co/3UMX3ZBQwv"
+        },
+        {
+          "display_url": "pic.x.com/3UMX3ZBQwv",
+          "end": 37,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2067415114148610480/video/1",
+          "media_key": "7_2067415027037204481",
+          "start": 14,
+          "url": "https://t.co/3UMX3ZBQwv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067415114148610480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我需要一根烟来启动我的灵魂 https://t.co/3UMX3ZBQwv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2067415035924873217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDvBYOagAEFSbz.jpg",
+        "width": 964
+      },
+      {
+        "duration_ms": 14478,
+        "height": 1280,
+        "media_key": "7_2067415027037204481",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2067415027037204481/pu/img/zlfUChgOJT-P-5C9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067415027037204481/pu/vid/avc1/320x568/5ui225OZ7BW5KrmX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067415027037204481/pu/vid/avc1/480x852/uEhLbyLHnQuAadG_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067415027037204481/pu/vid/avc1/720x1280/phNwsq7O2loocq_m.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2067415027037204481/pu/pl/_E-wjLQIvjrpk9ym.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067415035924873217",
+            "7_2067415027037204481"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067415114148610480",
+        "created_at": "2026-06-18T01:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067415114148610480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3UMX3ZBQwv",
+              "end": 37,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2067415114148610480/video/1",
+              "media_key": "3_2067415035924873217",
+              "start": 14,
+              "url": "https://t.co/3UMX3ZBQwv"
+            },
+            {
+              "display_url": "pic.x.com/3UMX3ZBQwv",
+              "end": 37,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2067415114148610480/video/1",
+              "media_key": "7_2067415027037204481",
+              "start": 14,
+              "url": "https://t.co/3UMX3ZBQwv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067415114148610480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要一根烟来启动我的灵魂 https://t.co/3UMX3ZBQwv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟代/我要养只小乌龟/12",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12和他的小乌龟13",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066730626359975937/f_62LuDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 938,
+          "like_count": 17228,
+          "listed_count": 1,
+          "media_count": 903,
+          "tweet_count": 10090
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

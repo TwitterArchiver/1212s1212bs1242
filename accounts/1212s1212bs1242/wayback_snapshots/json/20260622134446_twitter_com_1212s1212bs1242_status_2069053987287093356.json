@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2069053987287093356",
+    "created_at": "2026-06-22T13:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T14:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069053987287093356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Retepa555/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Retepa555/status/2069052750206537914",
+          "start": 3,
+          "url": "https://t.co/nDFdP2bgEi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069053987287093356",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069052750206537914",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "寸止 https://t.co/nDFdP2bgEi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2069053987287093356",
+        "created_at": "2026-06-22T13:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069053987287093356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Retepa555/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Retepa555/status/2069052750206537914",
+              "start": 3,
+              "url": "https://t.co/nDFdP2bgEi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069053987287093356",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069052750206537914",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "寸止 https://t.co/nDFdP2bgEi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577362467419611137",
+        "conversation_id": "2068992293110259900",
+        "created_at": "2026-06-22T13:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069052750206537914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "1212s1212bs1242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069052750206537914",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068992293110259900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1212s1212bs1242 忍着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "12是12",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12和他的小乌龟13",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066730626359975937/f_62LuDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 941,
+          "like_count": 17180,
+          "listed_count": 1,
+          "media_count": 935,
+          "tweet_count": 10167
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T18:18:25.000Z",
+        "description": "＝阿瓜｜pc街机/都市传说/文史哲艺爱好者/ccru/社民/机械飞升/生理女 友好一切/民科/后现代/神必学游客/oder/查成分互fo｜只是互联网幽灵\n\n👁你們怎麼辦，只有天知道。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/retepa555",
+                "end": 23,
+                "expanded_url": "https://ngl.link/retepa555",
+                "start": 0,
+                "url": "https://t.co/i8FVzhF71c"
+              }
+            ]
+          }
+        },
+        "id": "1577362467419611137",
+        "location": "第三高原",
+        "name": "無機質水樂",
+        "pinned_tweet_id": "2008084757700395499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009666622110531584/OB6tshlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 828,
+          "like_count": 24541,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 2001
+        },
+        "url": "https://t.co/i8FVzhF71c",
+        "username": "Retepa555",
+        "verified": false
+      }
+    ]
+  }
+}

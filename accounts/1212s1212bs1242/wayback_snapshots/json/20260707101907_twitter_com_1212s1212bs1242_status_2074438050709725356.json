@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2074437987501547520"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2074438050709725356",
+    "created_at": "2026-07-07T10:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T11:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074438050709725356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7iTZPVWXlC",
+          "end": 51,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2074438050709725356/video/1",
+          "media_key": "7_2074437987501547520",
+          "start": 28,
+          "url": "https://t.co/7iTZPVWXlC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074438050709725356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "倘若你不知道什么叫爽，这个男人断了两个小时终于抽上烟了 https://t.co/7iTZPVWXlC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30797,
+        "height": 1280,
+        "media_key": "7_2074437987501547520",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074437987501547520/pu/img/etWNJAPvx_P6Cb-c.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074437987501547520/pu/vid/avc1/320x568/p-oGeU-k6O0BAcOp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074437987501547520/pu/vid/avc1/480x852/PrNTuosRvS7pqI2p.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074437987501547520/pu/vid/avc1/720x1280/8zXOUoVMJL0wyRxx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074437987501547520/pu/pl/clreRfhLzhFbuy_F.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074437987501547520"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2074438050709725356",
+        "created_at": "2026-07-07T10:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074438050709725356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7iTZPVWXlC",
+              "end": 51,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2074438050709725356/video/1",
+              "media_key": "7_2074437987501547520",
+              "start": 28,
+              "url": "https://t.co/7iTZPVWXlC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074438050709725356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "倘若你不知道什么叫爽，这个男人断了两个小时终于抽上烟了 https://t.co/7iTZPVWXlC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "12是12/没消息就是进牢了/单机/我只是一个缺爱的抽烟大丑b/欢迎跟我谈论现象学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074057741191274496/zsnHU4US_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 930,
+          "like_count": 17224,
+          "listed_count": 1,
+          "media_count": 1024,
+          "tweet_count": 10327
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

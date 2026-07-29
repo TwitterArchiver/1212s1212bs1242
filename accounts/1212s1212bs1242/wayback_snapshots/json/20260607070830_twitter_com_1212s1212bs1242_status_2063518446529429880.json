@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2063518446529429880",
+    "created_at": "2026-06-07T07:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T08:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063518446529429880"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《Blaise Bailey Finnegan III》，由 Godspeed You! Black Emperor 演唱，收录于《Slow Riot for New Zero Kanada》专辑中，《Blaise Bailey Finnegan III》下载，《Blaise Bailey Finnegan III》在线试听，更多Blaise Bailey Finnegan III相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/8yLu8c3",
+          "end": 85,
+          "expanded_url": "https://163cn.tv/8yLu8c3",
+          "start": 62,
+          "status": 200,
+          "title": "Blaise Bailey Finnegan III - Godspeed You! Black Emperor - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?id=4084065&uct2=8YCsS9QYECfJkOXZq4uVXQ%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t3&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.15&sc=wm&tn=",
+          "url": "https://t.co/ms4f55KS0l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063518446529429880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享Godspeed You! Black Emperor的单曲《Blaise Bailey Finnegan III》: https://t.co/ms4f55KS0l (来自@网易云音乐)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2063518446529429880",
+        "created_at": "2026-06-07T07:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063518446529429880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《Blaise Bailey Finnegan III》，由 Godspeed You! Black Emperor 演唱，收录于《Slow Riot for New Zero Kanada》专辑中，《Blaise Bailey Finnegan III》下载，《Blaise Bailey Finnegan III》在线试听，更多Blaise Bailey Finnegan III相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/8yLu8c3",
+              "end": 85,
+              "expanded_url": "https://163cn.tv/8yLu8c3",
+              "start": 62,
+              "status": 200,
+              "title": "Blaise Bailey Finnegan III - Godspeed You! Black Emperor - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=4084065&uct2=8YCsS9QYECfJkOXZq4uVXQ%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t3&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.15&sc=wm&tn=",
+              "url": "https://t.co/ms4f55KS0l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063518446529429880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享Godspeed You! Black Emperor的单曲《Blaise Bailey Finnegan III》: https://t.co/ms4f55KS0l (来自@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2063091176224485768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 867,
+          "like_count": 17693,
+          "listed_count": 1,
+          "media_count": 772,
+          "tweet_count": 9763
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

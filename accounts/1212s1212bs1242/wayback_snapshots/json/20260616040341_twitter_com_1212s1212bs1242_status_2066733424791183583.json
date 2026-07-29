@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2066733327210700800"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2066733424791183583",
+    "created_at": "2026-06-16T04:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T05:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066733424791183583"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cwxCTFSH7y",
+          "end": 26,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2066733424791183583/video/1",
+          "media_key": "7_2066733327210700800",
+          "start": 3,
+          "url": "https://t.co/cwxCTFSH7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066733424791183583",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抽烟 https://t.co/cwxCTFSH7y"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18371,
+        "height": 1280,
+        "media_key": "7_2066733327210700800",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066733327210700800/pu/img/M0v9iAnwWgS4dUPH.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066733327210700800/pu/vid/avc1/320x568/3fDG73nNGXZ3Vx28.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066733327210700800/pu/vid/avc1/480x852/MzAKa_1dSSR_SlEG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066733327210700800/pu/vid/avc1/720x1280/Gis70INnRykA4DSM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066733327210700800/pu/pl/6s5h2oXYSSSO_xuL.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066733327210700800"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2066733424791183583",
+        "created_at": "2026-06-16T04:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066733424791183583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cwxCTFSH7y",
+              "end": 26,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2066733424791183583/video/1",
+              "media_key": "7_2066733327210700800",
+              "start": 3,
+              "url": "https://t.co/cwxCTFSH7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066733424791183583",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽烟 https://t.co/cwxCTFSH7y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "烟代/我要养只小乌龟/12",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12和他的小乌龟",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066730626359975937/f_62LuDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 928,
+          "like_count": 17236,
+          "listed_count": 1,
+          "media_count": 890,
+          "tweet_count": 10061
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

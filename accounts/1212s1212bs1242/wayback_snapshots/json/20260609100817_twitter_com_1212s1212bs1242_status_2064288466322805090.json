@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2064288466322805090",
+    "created_at": "2026-06-09T10:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T11:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064288466322805090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1846596976265326592",
+          "start": 3,
+          "username": "voidsama777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064288466322805090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064285426396123381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @voidsama777: 不行我要闲死了\n我也要抄粉丝\n呃呃\n想挨抄的关注然后转发☺️☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2064288466322805090",
+        "created_at": "2026-06-09T10:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T11:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064288466322805090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1846596976265326592",
+              "start": 3,
+              "username": "voidsama777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064288466322805090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064285426396123381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @voidsama777: 不行我要闲死了\n我也要抄粉丝\n呃呃\n想挨抄的关注然后转发☺️☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846596976265326592",
+        "conversation_id": "2064285426396123381",
+        "created_at": "2026-06-09T09:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064285426396123381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064285426396123381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "不行我要闲死了\n我也要抄粉丝\n呃呃\n想挨抄的关注然后转发☺️☺️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2063952495240753231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 884,
+          "like_count": 17711,
+          "listed_count": 1,
+          "media_count": 803,
+          "tweet_count": 9856
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T17:01:02.000Z",
+        "description": "⟡ ✞ nonbinary ✟⛧✟ 互fo♡ ✞ \n✟⛧✟ ᗜˬᗜ 東方 project ᗜˬᗜ ♡⋆overdose lover♡✦\n⟡ v-kei ꙳scenecore lover ♡✦ rebzyyx₊kets4eki fans ⭒\n\n✞ ♡ dm开放 欢迎找我聊天喵 ♡ ✞",
+        "id": "1846596976265326592",
+        "location": "†　インターネット　†",
+        "name": "vk777",
+        "pinned_tweet_id": "2064012323329802702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060762569317679104/_n0GCM6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 94,
+          "like_count": 3664,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 511
+        },
+        "username": "voidsama777",
+        "verified": false
+      }
+    ]
+  }
+}

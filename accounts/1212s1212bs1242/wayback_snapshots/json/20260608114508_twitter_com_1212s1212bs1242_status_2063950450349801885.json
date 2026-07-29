@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2063852445072265307",
+    "created_at": "2026-06-08T11:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T12:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063950450349801885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1830260222180646912",
+          "start": 0,
+          "username": "DioCcc95326"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063950450349801885",
+    "in_reply_to_user_id": "1830260222180646912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063893043170922956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DioCcc95326 兄弟一根，我两根"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2063852445072265307",
+        "created_at": "2026-06-08T11:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063950450349801885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1830260222180646912",
+              "start": 0,
+              "username": "DioCcc95326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063950450349801885",
+        "in_reply_to_user_id": "1830260222180646912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063893043170922956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DioCcc95326 兄弟一根，我两根"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830260222180646912",
+        "conversation_id": "2063852445072265307",
+        "created_at": "2026-06-08T07:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063893043170922956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "1212s1212bs1242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063893043170922956",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063852445072265307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1212s1212bs1242 兄弟，陪一根•"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2063091176224485768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 871,
+          "like_count": 17704,
+          "listed_count": 1,
+          "media_count": 789,
+          "tweet_count": 9813
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T15:03:53.000Z",
+        "description": "想当开朗阳光小狗，带给所有人幸福/文艺b 无证含糖 INFP-A/重度以上抑郁/情绪调酒师/渴望和所有人交朋友，但低精力/希望能睡够八小时……",
+        "id": "1830260222180646912",
+        "name": "番茄摞一批🍥🏳️‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059240653293518848/PV6Psq4__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 70,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 94
+        },
+        "username": "DioCcc95326",
+        "verified": false
+      }
+    ]
+  }
+}

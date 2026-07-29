@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071777257417510912"
+      ],
+      "media_source_tweet_id": [
+        "2071777272508657977"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2071777958252151261",
+    "created_at": "2026-06-30T02:08:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T03:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071777958252151261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1937535170049114113",
+          "start": 3,
+          "username": "HatSune_R1n"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q7sJox1zHw",
+          "end": 52,
+          "expanded_url": "https://x.com/HatSune_R1n/status/2071777272508657977/photo/1",
+          "media_key": "3_2071777257417510912",
+          "start": 29,
+          "url": "https://t.co/q7sJox1zHw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071777958252151261",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071777272508657977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HatSune_R1n: 空你七nia姆nia姆 https://t.co/q7sJox1zHw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071777257417510912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBucFoakAAgxrS.jpg",
+        "width": 1456
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071777257417510912"
+          ],
+          "media_source_tweet_id": [
+            "2071777272508657977"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2071777958252151261",
+        "created_at": "2026-06-30T02:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T03:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071777958252151261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1937535170049114113",
+              "start": 3,
+              "username": "HatSune_R1n"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q7sJox1zHw",
+              "end": 52,
+              "expanded_url": "https://x.com/HatSune_R1n/status/2071777272508657977/photo/1",
+              "media_key": "3_2071777257417510912",
+              "start": 29,
+              "url": "https://t.co/q7sJox1zHw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071777958252151261",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071777272508657977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HatSune_R1n: 空你七nia姆nia姆 https://t.co/q7sJox1zHw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071777257417510912"
+          ]
+        },
+        "author_id": "1937535170049114113",
+        "conversation_id": "2071777272508657977",
+        "created_at": "2026-06-30T02:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T03:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071777272508657977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q7sJox1zHw",
+              "end": 35,
+              "expanded_url": "https://x.com/HatSune_R1n/status/2071777272508657977/photo/1",
+              "media_key": "3_2071777257417510912",
+              "start": 12,
+              "url": "https://t.co/q7sJox1zHw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071777272508657977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "空你七nia姆nia姆 https://t.co/q7sJox1zHw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "12是12/没消息就是进牢了/单机/我只是一个缺爱的抽烟大丑b",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069708575530700800/awHm2N_j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 939,
+          "like_count": 17233,
+          "listed_count": 1,
+          "media_count": 977,
+          "tweet_count": 10257
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T15:36:08.000Z",
+        "description": "=橘｜20⬆️｜宅 ｜社畜 ｜坐标深圳 ｜同类会回fo 欢迎",
+        "id": "1937535170049114113",
+        "location": "距离你5.2km",
+        "name": "M1Kan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071775457587118081/EXOfMzBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 136,
+          "like_count": 1013,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 498
+        },
+        "url": "",
+        "username": "HatSune_R1n",
+        "verified": false
+      }
+    ]
+  }
+}

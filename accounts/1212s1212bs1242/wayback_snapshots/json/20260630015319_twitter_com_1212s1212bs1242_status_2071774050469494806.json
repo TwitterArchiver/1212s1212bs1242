@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2071773464768528826",
+    "created_at": "2026-06-30T01:53:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T02:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071774050469494806"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071774050469494806",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071773464768528826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "早"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37170,
+        "height": 1280,
+        "media_key": "7_2071773288909754368",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2071773288909754368/pu/img/RCQC8vXfPxHnNqZ1.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071773288909754368/pu/vid/avc1/320x568/JMNCaxJTX1n-8MN0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071773288909754368/pu/vid/avc1/480x852/xJOKC0FEcfUEGJmG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071773288909754368/pu/vid/avc1/720x1280/ZJW34OTj5ABCQydu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2071773288909754368/pu/pl/fOZ10j4Ly2wL1_F5.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2071773464768528826",
+        "created_at": "2026-06-30T01:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T02:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071774050469494806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071774050469494806",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071773464768528826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "早"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2071773288909754368"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2071773464768528826",
+        "created_at": "2026-06-30T01:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T02:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071773464768528826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mwlgj0rr2r",
+              "end": 25,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2071773464768528826/video/1",
+              "media_key": "7_2071773288909754368",
+              "start": 2,
+              "url": "https://t.co/Mwlgj0rr2r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071773464768528826",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烟 https://t.co/Mwlgj0rr2r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "12是12/没消息就是进牢了/单机/我只是一个缺爱的抽烟大丑b",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069708575530700800/awHm2N_j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 939,
+          "like_count": 17232,
+          "listed_count": 1,
+          "media_count": 977,
+          "tweet_count": 10256
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065002319515959296"
+      ],
+      "media_source_tweet_id": [
+        "2065002332535034047"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2065377785812767138",
+    "created_at": "2026-06-12T10:16:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065377785812767138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1999045703935614976",
+          "start": 3,
+          "username": "Qiu4u"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3XAqSASBIF",
+          "end": 39,
+          "expanded_url": "https://x.com/Qiu4u/status/2065002332535034047/photo/1",
+          "media_key": "3_2065002319515959296",
+          "start": 16,
+          "url": "https://t.co/3XAqSASBIF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065377785812767138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065002332535034047",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qiu4u: 我就这样 https://t.co/3XAqSASBIF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1531,
+        "media_key": "3_2065002319515959296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhcqzMbQAAlQEV.jpg",
+        "width": 1115
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065002319515959296"
+          ],
+          "media_source_tweet_id": [
+            "2065002332535034047"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2065377785812767138",
+        "created_at": "2026-06-12T10:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065377785812767138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1999045703935614976",
+              "start": 3,
+              "username": "Qiu4u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3XAqSASBIF",
+              "end": 39,
+              "expanded_url": "https://x.com/Qiu4u/status/2065002332535034047/photo/1",
+              "media_key": "3_2065002319515959296",
+              "start": 16,
+              "url": "https://t.co/3XAqSASBIF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065377785812767138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065002332535034047",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Qiu4u: 我就这样 https://t.co/3XAqSASBIF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065002319515959296"
+          ]
+        },
+        "author_id": "1999045703935614976",
+        "conversation_id": "2065002332535034047",
+        "created_at": "2026-06-11T09:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065002332535034047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3XAqSASBIF",
+              "end": 28,
+              "expanded_url": "https://x.com/Qiu4u/status/2065002332535034047/photo/1",
+              "media_key": "3_2065002319515959296",
+              "start": 5,
+              "url": "https://t.co/3XAqSASBIF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065002332535034047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 22596,
+          "like_count": 286,
+          "quote_count": 2,
+          "reply_count": 62,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/3XAqSASBIF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo/大陆哲学爱好，最近想了解一下古典经济学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 905,
+          "like_count": 17325,
+          "listed_count": 1,
+          "media_count": 842,
+          "tweet_count": 9953
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T09:17:12.000Z",
+        "description": "我是小秋/ED 双相二型已被上报/我o我割/求大家和我互fo！/English Krean ok/地雷系と繋がりたい/27🇰🇷留子",
+        "id": "1999045703935614976",
+        "location": "Kanagawa-ken, Japan",
+        "name": "用你笑容为我祭奠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002838039543136256/3OmqFFrp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 161,
+          "like_count": 1700,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 428
+        },
+        "username": "Qiu4u",
+        "verified": false
+      }
+    ]
+  }
+}

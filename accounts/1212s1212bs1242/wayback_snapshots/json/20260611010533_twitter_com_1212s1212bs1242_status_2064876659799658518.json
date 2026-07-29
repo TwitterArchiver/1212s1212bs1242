@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2064876582423154688"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2064876659799658518",
+    "created_at": "2026-06-11T01:05:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T02:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064876659799658518"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t4s6IOc2qi",
+          "end": 32,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2064876659799658518/video/1",
+          "media_key": "7_2064876582423154688",
+          "start": 9,
+          "url": "https://t.co/t4s6IOc2qi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064876659799658518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老农民的日常生活 https://t.co/t4s6IOc2qi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33936,
+        "height": 1280,
+        "media_key": "7_2064876582423154688",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2064876582423154688/pu/img/iCuV1cn2YMtnZZiW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064876582423154688/pu/vid/avc1/320x568/_UgfiNtMq-_hhlJS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064876582423154688/pu/vid/avc1/480x852/bFljPisElBGnCkvu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064876582423154688/pu/vid/avc1/720x1280/N5zHCRr8ThjlA8tB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2064876582423154688/pu/pl/zK4StPO9e3ueOYIx.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064876582423154688"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2064876659799658518",
+        "created_at": "2026-06-11T01:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T02:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064876659799658518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t4s6IOc2qi",
+              "end": 32,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2064876659799658518/video/1",
+              "media_key": "7_2064876582423154688",
+              "start": 9,
+              "url": "https://t.co/t4s6IOc2qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064876659799658518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老农民的日常生活 https://t.co/t4s6IOc2qi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo/大陆哲学爱好，最近想了解一下古典经济学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2064598365963464812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 891,
+          "like_count": 17562,
+          "listed_count": 1,
+          "media_count": 818,
+          "tweet_count": 9894
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

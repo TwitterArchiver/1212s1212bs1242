@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066848852569657344"
+      ],
+      "media_source_tweet_id": [
+        "2066849025882571139"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2066850300615704923",
+    "created_at": "2026-06-16T11:48:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T12:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066850300615704923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1741075170603749376",
+          "start": 3,
+          "username": "zhao_tito"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2HI16vgENJ",
+          "end": 66,
+          "expanded_url": "https://x.com/zhao_tito/status/2066849025882571139/photo/1",
+          "media_key": "3_2066848852569657344",
+          "start": 43,
+          "url": "https://t.co/2HI16vgENJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066850300615704923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066849025882571139",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhao_tito: 我们石族人才嚼得起的和五十大果，Shang 🫵嚼得起吗 https://t.co/2HI16vgENJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2066850300615704923].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2066850300615704923",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2066850300615704923"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066848852569657344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7sFK3WkAAK-5i.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066848852569657344"
+          ]
+        },
+        "author_id": "1741075170603749376",
+        "conversation_id": "2066849025882571139",
+        "created_at": "2026-06-16T11:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066849025882571139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2HI16vgENJ",
+              "end": 51,
+              "expanded_url": "https://x.com/zhao_tito/status/2066849025882571139/photo/1",
+              "media_key": "3_2066848852569657344",
+              "start": 28,
+              "url": "https://t.co/2HI16vgENJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066849025882571139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我们石族人才嚼得起的和五十大果，Shang 🫵嚼得起吗 https://t.co/2HI16vgENJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "烟代/我要养只小乌龟/12",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12和他的小乌龟",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066730626359975937/f_62LuDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 930,
+          "like_count": 17244,
+          "listed_count": 1,
+          "media_count": 892,
+          "tweet_count": 10070
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T12:34:18.000Z",
+        "description": "Por fa',no me parеs ya de mirar.",
+        "id": "1741075170603749376",
+        "location": "🚪40",
+        "name": "钮祜禄·有希🐰🍺",
+        "pinned_tweet_id": "2064018565662167121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034879597159096322/QuoMlwJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 1473,
+          "like_count": 34226,
+          "listed_count": 2,
+          "media_count": 1332,
+          "tweet_count": 17193
+        },
+        "username": "zhao_tito",
+        "verified": false
+      }
+    ]
+  }
+}

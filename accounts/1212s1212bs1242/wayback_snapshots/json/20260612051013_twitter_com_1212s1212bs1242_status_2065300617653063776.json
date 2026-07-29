@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065300611936223232",
+        "3_2065300612024315904"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2065300515202957774",
+    "created_at": "2026-06-12T05:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T06:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065300617653063776"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wfhJVJc7i4",
+          "end": 35,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2065300617653063776/photo/1",
+          "media_key": "3_2065300611936223232",
+          "start": 12,
+          "url": "https://t.co/wfhJVJc7i4"
+        },
+        {
+          "display_url": "pic.x.com/wfhJVJc7i4",
+          "end": 35,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2065300617653063776/photo/1",
+          "media_key": "3_2065300612024315904",
+          "start": 12,
+          "url": "https://t.co/wfhJVJc7i4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065300617653063776",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065300515202957774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "1 滤芯对比 左真右假 https://t.co/wfhJVJc7i4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2065300611936223232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlr9tDbAAAA27h.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2065300612024315904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlr9tYbMAASs6a.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065300611936223232",
+            "3_2065300612024315904"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065300515202957774",
+        "created_at": "2026-06-12T05:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065300617653063776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wfhJVJc7i4",
+              "end": 35,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2065300617653063776/photo/1",
+              "media_key": "3_2065300611936223232",
+              "start": 12,
+              "url": "https://t.co/wfhJVJc7i4"
+            },
+            {
+              "display_url": "pic.x.com/wfhJVJc7i4",
+              "end": 35,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2065300617653063776/photo/1",
+              "media_key": "3_2065300612024315904",
+              "start": 12,
+              "url": "https://t.co/wfhJVJc7i4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065300617653063776",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065300515202957774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1 滤芯对比 左真右假 https://t.co/wfhJVJc7i4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2065300515202957774",
+        "created_at": "2026-06-12T05:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065300515202957774"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065300515202957774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有人说我卖的七星是假的，所以我又出一个鉴定贴了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo/大陆哲学爱好，最近想了解一下古典经济学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2065019132110872592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 902,
+          "like_count": 17294,
+          "listed_count": 1,
+          "media_count": 836,
+          "tweet_count": 9935
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

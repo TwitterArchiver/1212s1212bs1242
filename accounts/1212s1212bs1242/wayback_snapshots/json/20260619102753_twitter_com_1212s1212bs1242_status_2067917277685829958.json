@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2067917277685829958",
+    "created_at": "2026-06-19T10:27:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T11:27:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067917277685829958"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuri__ono/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/yuri__ono/status/2067917096202502367",
+          "start": 6,
+          "url": "https://t.co/FQPhYXB9jN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067917277685829958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067917096202502367",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "越抽越年轻 https://t.co/FQPhYXB9jN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2067917277685829958",
+        "created_at": "2026-06-19T10:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067917277685829958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuri__ono/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/yuri__ono/status/2067917096202502367",
+              "start": 6,
+              "url": "https://t.co/FQPhYXB9jN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067917277685829958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067917096202502367",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "越抽越年轻 https://t.co/FQPhYXB9jN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967234748704862208",
+        "conversation_id": "2067910217946607683",
+        "created_at": "2026-06-19T10:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067917096202502367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "1212s1212bs1242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067917096202502367",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067910217946607683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1212s1212bs1242 怎么又在抽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟代/我要养只小乌龟/12",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12和他的小乌龟13",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066730626359975937/f_62LuDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 939,
+          "like_count": 17176,
+          "listed_count": 1,
+          "media_count": 917,
+          "tweet_count": 10119
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看  只和熟人加v 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 742,
+          "like_count": 5188,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 1840
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false
+      }
+    ]
+  }
+}

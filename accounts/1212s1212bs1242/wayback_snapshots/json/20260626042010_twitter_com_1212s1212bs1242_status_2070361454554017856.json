@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2070361454554017856",
+    "created_at": "2026-06-26T04:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T05:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070361454554017856"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3e1diei0_oi7y/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/3e1diei0_oi7y/status/2070354568140243100",
+          "start": 12,
+          "url": "https://t.co/TJz51IzsGd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070361454554017856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070354568140243100",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是的，抽雪茄很独特。！ https://t.co/TJz51IzsGd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2070361454554017856",
+        "created_at": "2026-06-26T04:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070361454554017856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3e1diei0_oi7y/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/3e1diei0_oi7y/status/2070354568140243100",
+              "start": 12,
+              "url": "https://t.co/TJz51IzsGd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070361454554017856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070354568140243100",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的，抽雪茄很独特。！ https://t.co/TJz51IzsGd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904731881817735168",
+        "conversation_id": "2070354568140243100",
+        "created_at": "2026-06-26T03:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070354568140243100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1212s1212bs124…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/1212s1212bs1242/status/2070352933150179348",
+              "start": 42,
+              "url": "https://t.co/IHJthPOFjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070354568140243100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070352933150179348",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呜哇！一下子感觉变得好成熟好商业喔...(°´ ˘ `°)/\n超有style的说。 https://t.co/IHJthPOFjk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "12是12/没消息就是进牢了",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12和他的小乌龟13",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069708575530700800/awHm2N_j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 938,
+          "like_count": 17201,
+          "listed_count": 1,
+          "media_count": 957,
+          "tweet_count": 10208
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T03:07:31.000Z",
+        "description": "愛，愛，愛",
+        "id": "1904731881817735168",
+        "name": "Kvr208833T66ARunZ4d1",
+        "pinned_tweet_id": "2068996709448061005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068525248845352960/NfGeD-H1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 295,
+          "like_count": 17467,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 185
+        },
+        "url": "",
+        "username": "3e1diei0_oi7y",
+        "verified": false
+      }
+    ]
+  }
+}

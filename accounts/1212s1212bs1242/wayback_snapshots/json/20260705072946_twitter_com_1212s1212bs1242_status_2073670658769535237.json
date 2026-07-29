@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073670649265131520"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2073670658769535237",
+    "created_at": "2026-07-05T07:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T08:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073670658769535237"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/14G9UZoX57",
+          "end": 29,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2073670658769535237/photo/1",
+          "media_key": "3_2073670649265131520",
+          "start": 6,
+          "url": "https://t.co/14G9UZoX57"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073670658769535237",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好怪的名字 https://t.co/14G9UZoX57"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073670649265131520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcod_6aEAAeLEt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073670649265131520"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2073670658769535237",
+        "created_at": "2026-07-05T07:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073670658769535237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/14G9UZoX57",
+              "end": 29,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2073670658769535237/photo/1",
+              "media_key": "3_2073670649265131520",
+              "start": 6,
+              "url": "https://t.co/14G9UZoX57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073670658769535237",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好怪的名字 https://t.co/14G9UZoX57"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "12是12/没消息就是进牢了/单机/我只是一个缺爱的抽烟大丑b/欢迎跟我谈论现象学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069708575530700800/awHm2N_j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 933,
+          "like_count": 17236,
+          "listed_count": 1,
+          "media_count": 1007,
+          "tweet_count": 10302
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

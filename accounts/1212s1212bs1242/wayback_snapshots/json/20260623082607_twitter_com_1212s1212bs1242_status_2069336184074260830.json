@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2069336184074260830",
+    "created_at": "2026-06-23T08:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T09:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069336184074260830"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3e1diei0_oi7y/…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/3e1diei0_oi7y/status/2069300265581457670",
+          "start": 41,
+          "url": "https://t.co/rrbS8zIFG4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069336184074260830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069300265581457670",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "应该不是，那是奇怪的噪点音，Smoking good happy daytoo！ https://t.co/rrbS8zIFG4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2069336184074260830",
+        "created_at": "2026-06-23T08:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069336184074260830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3e1diei0_oi7y/…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/3e1diei0_oi7y/status/2069300265581457670",
+              "start": 41,
+              "url": "https://t.co/rrbS8zIFG4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069336184074260830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069300265581457670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "应该不是，那是奇怪的噪点音，Smoking good happy daytoo！ https://t.co/rrbS8zIFG4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904731881817735168",
+        "conversation_id": "2069300265581457670",
+        "created_at": "2026-06-23T06:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069300265581457670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1212s1212bs124…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/1212s1212bs1242/status/2069299905487868356",
+              "start": 112,
+              "url": "https://t.co/ARpxgm4dii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069300265581457670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069299905487868356",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对阿...背景里的叽叽啾啾声不就是吗？\n说起来12，我每次看到你的抽烟播报，都觉得你好像啪啦啦拍打翅膀的吸烟小精灵一样好亲切喔...日安，今天也smoking～happy happy smoking...&gt;⩊&lt; https://t.co/ARpxgm4dii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "12是12",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12和他的小乌龟13",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069335077537087488/yFP7u_Hn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 940,
+          "like_count": 17181,
+          "listed_count": 1,
+          "media_count": 943,
+          "tweet_count": 10183
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T03:07:31.000Z",
+        "description": "魔法少女猎杀事务所：猎杀专员。\n対象：魔法少女全般\n捕杀｜解体｜人格崩毁善后\n受注状況：営業中",
+        "id": "1904731881817735168",
+        "name": "Kvr208833T66ARunZ4d1",
+        "pinned_tweet_id": "2068996709448061005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068525248845352960/NfGeD-H1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 254,
+          "like_count": 14765,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 127
+        },
+        "url": "",
+        "username": "3e1diei0_oi7y",
+        "verified": false
+      }
+    ]
+  }
+}

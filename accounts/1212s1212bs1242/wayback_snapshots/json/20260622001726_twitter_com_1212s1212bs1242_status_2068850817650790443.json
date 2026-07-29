@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2068850817650790443",
+    "created_at": "2026-06-22T00:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T01:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068850817650790443"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/neko0202002/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/neko0202002/status/2068815703583633772",
+          "start": 3,
+          "url": "https://t.co/CKjonPrw07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068850817650790443",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068815703583633772",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是0 https://t.co/CKjonPrw07"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "16_2068815692254871552",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLXo6TqbAAAj_Bf.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLXo6TqbAAAj_Bf.mp4"
+          }
+        ],
+        "width": 450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2068850817650790443",
+        "created_at": "2026-06-22T00:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T01:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068850817650790443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/neko0202002/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/neko0202002/status/2068815703583633772",
+              "start": 3,
+              "url": "https://t.co/CKjonPrw07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068850817650790443",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068815703583633772",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是0 https://t.co/CKjonPrw07"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2068815692254871552"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2068584876933316727",
+        "created_at": "2026-06-21T21:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T22:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068815703583633772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "1212s1212bs1242"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s9uX2iZXtz",
+              "end": 46,
+              "expanded_url": "https://x.com/neko0202002/status/2068815703583633772/photo/1",
+              "media_key": "16_2068815692254871552",
+              "start": 23,
+              "url": "https://t.co/s9uX2iZXtz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068815703583633772",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068584876933316727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1212s1212bs1242 12是攻吗 https://t.co/s9uX2iZXtz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "12是12",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12和他的小乌龟13",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066730626359975937/f_62LuDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 941,
+          "like_count": 17181,
+          "listed_count": 1,
+          "media_count": 930,
+          "tweet_count": 10149
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 632,
+          "like_count": 2029,
+          "listed_count": 2,
+          "media_count": 1986,
+          "tweet_count": 5228
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

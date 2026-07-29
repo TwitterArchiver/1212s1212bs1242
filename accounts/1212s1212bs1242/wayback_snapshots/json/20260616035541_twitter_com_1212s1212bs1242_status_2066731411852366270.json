@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066731175687880704"
+      ],
+      "media_source_tweet_id": [
+        "2066731180066734118"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2066731411852366270",
+    "created_at": "2026-06-16T03:55:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T04:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066731411852366270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1865350100069076992",
+          "start": 3,
+          "username": "Reiaki114"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JRYsydoyHl",
+          "end": 49,
+          "expanded_url": "https://x.com/Reiaki114/status/2066731180066734118/photo/1",
+          "media_key": "3_2066731175687880704",
+          "start": 26,
+          "url": "https://t.co/JRYsydoyHl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066731411852366270",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066731180066734118",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Reiaki114: 抽一根老中烟是爽爽啊 https://t.co/JRYsydoyHl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066731175687880704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6BDeUaAAALeaO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066731175687880704"
+          ],
+          "media_source_tweet_id": [
+            "2066731180066734118"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2066731411852366270",
+        "created_at": "2026-06-16T03:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T04:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066731411852366270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1865350100069076992",
+              "start": 3,
+              "username": "Reiaki114"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JRYsydoyHl",
+              "end": 49,
+              "expanded_url": "https://x.com/Reiaki114/status/2066731180066734118/photo/1",
+              "media_key": "3_2066731175687880704",
+              "start": 26,
+              "url": "https://t.co/JRYsydoyHl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066731411852366270",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066731180066734118",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Reiaki114: 抽一根老中烟是爽爽啊 https://t.co/JRYsydoyHl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066731175687880704"
+          ]
+        },
+        "author_id": "1865350100069076992",
+        "conversation_id": "2066731180066734118",
+        "created_at": "2026-06-16T03:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T04:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066731180066734118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JRYsydoyHl",
+              "end": 34,
+              "expanded_url": "https://x.com/Reiaki114/status/2066731180066734118/photo/1",
+              "media_key": "3_2066731175687880704",
+              "start": 11,
+              "url": "https://t.co/JRYsydoyHl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066731180066734118",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "抽一根老中烟是爽爽啊 https://t.co/JRYsydoyHl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟代/我要养只小乌龟/12",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12和他的小乌龟",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066730626359975937/f_62LuDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 928,
+          "like_count": 17236,
+          "listed_count": 1,
+          "media_count": 889,
+          "tweet_count": 10060
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T10:58:23.000Z",
+        "description": "locating in🇯🇵\n地下アイドル❤️ヲタ芸一年め/Utage！MAGMAZ❤️\n中国語 English 日本語 可\n精神病 看成分互fo可 友跨🏳️‍⚧️/🇨🇳🇸🇬🇬🇧🇯🇵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/reiaki114_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/reiaki114_",
+                "start": 0,
+                "url": "https://t.co/gIV55HPwIQ"
+              }
+            ]
+          }
+        },
+        "id": "1865350100069076992",
+        "location": "歌舞伎町",
+        "name": "宇佐美リャキ",
+        "pinned_tweet_id": "2064687537072001057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056979654725283840/-M_pi1dm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 524,
+          "like_count": 1386,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 562
+        },
+        "url": "https://t.co/gIV55HPwIQ",
+        "username": "Reiaki114",
+        "verified": true
+      }
+    ]
+  }
+}

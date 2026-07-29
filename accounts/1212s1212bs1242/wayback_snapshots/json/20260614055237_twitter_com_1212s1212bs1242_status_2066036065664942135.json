@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2066036065664942135",
+    "created_at": "2026-06-14T05:52:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T06:52:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066036065664942135"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "music.163.com/album/37854534…",
+          "end": 59,
+          "expanded_url": "http://music.163.com/album/378545349/?userid=449006969",
+          "start": 36,
+          "status": 200,
+          "title": "网易云音乐",
+          "unwound_url": "https://music.163.com/album?id=378545349&userid=449006969",
+          "url": "https://t.co/mmVOEj7J9l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066036065664942135",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好专辑\n分享Boards of Canada的专辑《Inferno》: https://t.co/mmVOEj7J9l (来自@网易云音乐)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2066036065664942135",
+        "created_at": "2026-06-14T05:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066036065664942135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "music.163.com/album/37854534…",
+              "end": 59,
+              "expanded_url": "http://music.163.com/album/378545349/?userid=449006969",
+              "start": 36,
+              "status": 200,
+              "title": "网易云音乐",
+              "unwound_url": "https://music.163.com/album?id=378545349&userid=449006969",
+              "url": "https://t.co/mmVOEj7J9l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066036065664942135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好专辑\n分享Boards of Canada的专辑《Inferno》: https://t.co/mmVOEj7J9l (来自@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "复活的亡灵，查成分互fo/大陆哲学爱好，最近想了解一下古典经济学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 920,
+          "like_count": 17337,
+          "listed_count": 1,
+          "media_count": 862,
+          "tweet_count": 10011
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

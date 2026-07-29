@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065301435877924864",
+        "3_2065301435311652864"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2065300515202957774",
+    "created_at": "2026-06-12T05:13:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T06:13:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065301443826078204"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/55Xliu1FNl",
+          "end": 42,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2065301443826078204/photo/1",
+          "media_key": "3_2065301435877924864",
+          "start": 19,
+          "url": "https://t.co/55Xliu1FNl"
+        },
+        {
+          "display_url": "pic.x.com/55Xliu1FNl",
+          "end": 42,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2065301443826078204/photo/1",
+          "media_key": "3_2065301435311652864",
+          "start": 19,
+          "url": "https://t.co/55Xliu1FNl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065301443826078204",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065300515202957774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "5 真假七星封口对比，这个是最明显的 https://t.co/55Xliu1FNl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065301435877924864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlstqeboAA9MvC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2065301435311652864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlstoXbAAArJ-k.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065301435877924864",
+            "3_2065301435311652864"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2065300515202957774",
+        "created_at": "2026-06-12T05:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065301443826078204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/55Xliu1FNl",
+              "end": 42,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2065301443826078204/photo/1",
+              "media_key": "3_2065301435877924864",
+              "start": 19,
+              "url": "https://t.co/55Xliu1FNl"
+            },
+            {
+              "display_url": "pic.x.com/55Xliu1FNl",
+              "end": 42,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2065301443826078204/photo/1",
+              "media_key": "3_2065301435311652864",
+              "start": 19,
+              "url": "https://t.co/55Xliu1FNl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065301443826078204",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065300515202957774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5 真假七星封口对比，这个是最明显的 https://t.co/55Xliu1FNl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2065300515202957774",
+        "created_at": "2026-06-12T05:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065300515202957774"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065300515202957774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有人说我卖的七星是假的，所以我又出一个鉴定贴了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo/大陆哲学爱好，最近想了解一下古典经济学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2065019132110872592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 902,
+          "like_count": 17294,
+          "listed_count": 1,
+          "media_count": 840,
+          "tweet_count": 9939
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

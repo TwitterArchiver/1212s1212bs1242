@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069294942137257984"
+      ],
+      "media_source_tweet_id": [
+        "2069294952870490435"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2069330773942157721",
+    "created_at": "2026-06-23T08:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T09:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069330773942157721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1423594963422547969",
+          "start": 3,
+          "username": "maru_Rema_maru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y95A2THacU",
+          "end": 55,
+          "expanded_url": "https://x.com/maru_Rema_maru/status/2069294952870490435/photo/1",
+          "media_key": "3_2069294942137257984",
+          "start": 32,
+          "url": "https://t.co/Y95A2THacU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069330773942157721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069294952870490435",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maru_Rema_maru: 已严肃完成今日抽烟任务 https://t.co/Y95A2THacU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069294942137257984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLecyUmakAA26QZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069294942137257984"
+          ],
+          "media_source_tweet_id": [
+            "2069294952870490435"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2069330773942157721",
+        "created_at": "2026-06-23T08:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069330773942157721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1423594963422547969",
+              "start": 3,
+              "username": "maru_Rema_maru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y95A2THacU",
+              "end": 55,
+              "expanded_url": "https://x.com/maru_Rema_maru/status/2069294952870490435/photo/1",
+              "media_key": "3_2069294942137257984",
+              "start": 32,
+              "url": "https://t.co/Y95A2THacU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069330773942157721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069294952870490435",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maru_Rema_maru: 已严肃完成今日抽烟任务 https://t.co/Y95A2THacU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069294942137257984"
+          ]
+        },
+        "author_id": "1423594963422547969",
+        "conversation_id": "2069294952870490435",
+        "created_at": "2026-06-23T05:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069294952870490435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y95A2THacU",
+              "end": 35,
+              "expanded_url": "https://x.com/maru_Rema_maru/status/2069294952870490435/photo/1",
+              "media_key": "3_2069294942137257984",
+              "start": 12,
+              "url": "https://t.co/Y95A2THacU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069294952870490435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃完成今日抽烟任务 https://t.co/Y95A2THacU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "12是12",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12和他的小乌龟13",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066730626359975937/f_62LuDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 940,
+          "like_count": 17180,
+          "listed_count": 1,
+          "media_count": 941,
+          "tweet_count": 10180
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-06T10:41:13.000Z",
+        "description": "＝川川/20↑/前世@chuan_0123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "chuan_0123"
+              }
+            ]
+          }
+        },
+        "id": "1423594963422547969",
+        "name": "虚空薯条大教主2.0",
+        "pinned_tweet_id": "2019873676972404953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064003232154951681/HwdMvkLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 296,
+          "like_count": 4380,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 326
+        },
+        "url": "",
+        "username": "maru_Rema_maru",
+        "verified": false
+      }
+    ]
+  }
+}

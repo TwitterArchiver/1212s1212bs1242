@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2076893672910844370",
+    "created_at": "2026-07-14T12:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T13:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077008241347956944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1738921100002967553",
+          "start": 0,
+          "username": "peel_sc59927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077008241347956944",
+    "in_reply_to_user_id": "1738921100002967553",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077002738488218102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@peel_sc59927 哈！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2076893672910844370",
+        "created_at": "2026-07-14T12:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077008241347956944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1738921100002967553",
+              "start": 0,
+              "username": "peel_sc59927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077008241347956944",
+        "in_reply_to_user_id": "1738921100002967553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077002738488218102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peel_sc59927 哈！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738921100002967553",
+        "conversation_id": "2076893672910844370",
+        "created_at": "2026-07-14T12:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077002738488218102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "1212s1212bs1242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077002738488218102",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076893672910844370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1212s1212bs1242 发现尼古耄耋！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "12是12/没消息就是进牢了/单机/我只是一个缺爱的抽烟大丑b/欢迎跟我谈论现象学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074057741191274496/zsnHU4US_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 928,
+          "like_count": 17189,
+          "listed_count": 1,
+          "media_count": 1050,
+          "tweet_count": 10364
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-24T13:54:41.000Z",
+        "description": "计算机or网络安全系04年破壳|INFJ|深柜|长期碎碎念|⭕|brat|LG(Bmtx含糖ing)🏳️‍🌈🏳️‍⚧️|欢迎扩列|勿传墙内|咱家狐宝：@ling00677756",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "ling00677756"
+              }
+            ]
+          }
+        },
+        "id": "1738921100002967553",
+        "name": "SC_Orange_Peel🍥",
+        "pinned_tweet_id": "2030900192434954680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020847094182055936/WTAcNygt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 344,
+          "like_count": 884,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 835
+        },
+        "url": "",
+        "username": "peel_sc59927",
+        "verified": false
+      }
+    ]
+  }
+}

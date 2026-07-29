@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2065375332035858773",
+    "created_at": "2026-06-12T10:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065375332035858773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1845116988181577728",
+          "start": 3,
+          "username": "tangtang1204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065375332035858773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065375117161758766",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tangtang1204: 卧槽12那买的烟太劲了，不知道是不是我尼古丁不耐受 ，抽完跟磕了一样脱力倒下去了，头晕目眩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2065375332035858773",
+        "created_at": "2026-06-12T10:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065375332035858773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1845116988181577728",
+              "start": 3,
+              "username": "tangtang1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065375332035858773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065375117161758766",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tangtang1204: 卧槽12那买的烟太劲了，不知道是不是我尼古丁不耐受 ，抽完跟磕了一样脱力倒下去了，头晕目眩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845116988181577728",
+        "conversation_id": "2065375117161758766",
+        "created_at": "2026-06-12T10:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065375117161758766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065375117161758766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽12那买的烟太劲了，不知道是不是我尼古丁不耐受 ，抽完跟磕了一样脱力倒下去了，头晕目眩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo/大陆哲学爱好，最近想了解一下古典经济学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 904,
+          "like_count": 17325,
+          "listed_count": 1,
+          "media_count": 842,
+          "tweet_count": 9950
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T14:59:15.000Z",
+        "description": "05/女同/地雷妹/od/割手/我爱我的小猫/我也喜欢所有可爱的孩子/https://t.co/UbgjEj3jy1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tangtang1204",
+                "end": 58,
+                "expanded_url": "https://ngl.link/tangtang1204",
+                "start": 35,
+                "url": "https://t.co/UbgjEj3jy1"
+              }
+            ]
+          }
+        },
+        "id": "1845116988181577728",
+        "name": "小糖",
+        "pinned_tweet_id": "2034282682381930914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062138922386550784/kXcvR_xb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 176,
+          "like_count": 258,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 455
+        },
+        "username": "tangtang1204",
+        "verified": false
+      }
+    ]
+  }
+}

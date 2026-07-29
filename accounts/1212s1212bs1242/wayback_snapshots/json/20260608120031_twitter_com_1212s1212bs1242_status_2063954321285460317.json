@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2063954321285460317",
+    "created_at": "2026-06-08T12:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T13:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063954321285460317"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/asjustinX/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/asjustinX/status/2063840298833158436",
+          "start": 9,
+          "url": "https://t.co/AHhCrdLO8g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063954321285460317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063840298833158436",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所有人槟榔嚼起来 https://t.co/AHhCrdLO8g"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2063954321285460317",
+        "created_at": "2026-06-08T12:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063954321285460317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/asjustinX/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/asjustinX/status/2063840298833158436",
+              "start": 9,
+              "url": "https://t.co/AHhCrdLO8g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063954321285460317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063840298833158436",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所有人槟榔嚼起来 https://t.co/AHhCrdLO8g"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788286131395604480",
+        "conversation_id": "2063840293305098724",
+        "created_at": "2026-06-08T04:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063840298833158436"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063840298833158436",
+        "in_reply_to_user_id": "1788286131395604480",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 21034,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063840297109348697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "3. Mastica comida dura\n\nTu mandíbula necesita esfuerzo físico real hoy. Come carne entera en lugar de purés. Masticar desarrolla tus músculos maseteros con fuerza. Ganas un rostro mucho más ancho siempre."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2063952495240753231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 872,
+          "like_count": 17705,
+          "listed_count": 1,
+          "media_count": 789,
+          "tweet_count": 9817
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T19:13:47.000Z",
+        "description": "Improve your life, your health & your mind...🎭",
+        "id": "1788286131395604480",
+        "location": "Collabs DM📩",
+        "name": "Justnx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017972739416465408/wSZO2ZDQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17954,
+          "following_count": 549,
+          "like_count": 10033,
+          "listed_count": 17,
+          "media_count": 938,
+          "tweet_count": 17736
+        },
+        "username": "asjustinX",
+        "verified": true
+      }
+    ]
+  }
+}

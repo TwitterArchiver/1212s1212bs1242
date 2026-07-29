@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069299844351676416"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2069299848369824038",
+    "created_at": "2026-06-23T06:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T07:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069299848369824038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1knqtg60D1",
+          "end": 28,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2069299848369824038/photo/1",
+          "media_key": "3_2069299844351676416",
+          "start": 5,
+          "url": "https://t.co/1knqtg60D1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069299848369824038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我抽烟。 https://t.co/1knqtg60D1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069299844351676416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLehPqxaUAACbNk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069299844351676416"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2069299848369824038",
+        "created_at": "2026-06-23T06:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069299848369824038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1knqtg60D1",
+              "end": 28,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2069299848369824038/photo/1",
+              "media_key": "3_2069299844351676416",
+              "start": 5,
+              "url": "https://t.co/1knqtg60D1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069299848369824038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我抽烟。 https://t.co/1knqtg60D1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "12是12",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12和他的小乌龟13",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066730626359975937/f_62LuDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 940,
+          "like_count": 17179,
+          "listed_count": 1,
+          "media_count": 941,
+          "tweet_count": 10178
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076997454143328256",
+        "7_2076997465740607488"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2076997504932131275",
+    "created_at": "2026-07-14T11:49:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T12:49:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076997504932131275"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jKBYKiscQw",
+          "end": 28,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2076997504932131275/video/1",
+          "media_key": "3_2076997454143328256",
+          "start": 5,
+          "url": "https://t.co/jKBYKiscQw"
+        },
+        {
+          "display_url": "pic.x.com/jKBYKiscQw",
+          "end": 28,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2076997504932131275/video/1",
+          "media_key": "7_2076997465740607488",
+          "start": 5,
+          "url": "https://t.co/jKBYKiscQw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076997504932131275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小猫发夹 https://t.co/jKBYKiscQw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2076997454143328256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNL6Lh2akAAC0ed.jpg",
+        "width": 1440
+      },
+      {
+        "duration_ms": 19203,
+        "height": 1280,
+        "media_key": "7_2076997465740607488",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2076997465740607488/pu/img/L26xrsCP5E5impdX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076997465740607488/pu/vid/avc1/320x568/Bv5WszYA0jyFvFXS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076997465740607488/pu/vid/avc1/480x852/dPiVE1pyFKw1vQHn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076997465740607488/pu/vid/avc1/720x1280/DPXS_bc03-HpRPuP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2076997465740607488/pu/pl/_oLKOCPAxtoGXSB0.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076997454143328256",
+            "7_2076997465740607488"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2076997504932131275",
+        "created_at": "2026-07-14T11:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076997504932131275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jKBYKiscQw",
+              "end": 28,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2076997504932131275/video/1",
+              "media_key": "3_2076997454143328256",
+              "start": 5,
+              "url": "https://t.co/jKBYKiscQw"
+            },
+            {
+              "display_url": "pic.x.com/jKBYKiscQw",
+              "end": 28,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2076997504932131275/video/1",
+              "media_key": "7_2076997465740607488",
+              "start": 5,
+              "url": "https://t.co/jKBYKiscQw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076997504932131275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小猫发夹 https://t.co/jKBYKiscQw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "12是12/没消息就是进牢了/单机/我只是一个缺爱的抽烟大丑b/欢迎跟我谈论现象学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074057741191274496/zsnHU4US_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 928,
+          "like_count": 17189,
+          "listed_count": 1,
+          "media_count": 1050,
+          "tweet_count": 10363
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

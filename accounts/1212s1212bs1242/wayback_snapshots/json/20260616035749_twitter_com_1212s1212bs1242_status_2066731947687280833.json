@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066492383894851584",
+        "3_2066492383907532801",
+        "3_2066492383840350208",
+        "3_2066492383852912640"
+      ],
+      "media_source_tweet_id": [
+        "2066492394292621514",
+        "2066492394292621514",
+        "2066492394292621514",
+        "2066492394292621514"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2066731947687280833",
+    "created_at": "2026-06-16T03:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T04:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066731947687280833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1249154601607036928",
+          "start": 3,
+          "username": "Sukl_sUKi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/liqtlenWF8",
+          "end": 49,
+          "expanded_url": "https://x.com/Sukl_sUKi/status/2066492394292621514/photo/1",
+          "media_key": "3_2066492383894851584",
+          "start": 26,
+          "url": "https://t.co/liqtlenWF8"
+        },
+        {
+          "display_url": "pic.x.com/liqtlenWF8",
+          "end": 49,
+          "expanded_url": "https://x.com/Sukl_sUKi/status/2066492394292621514/photo/1",
+          "media_key": "3_2066492383907532801",
+          "start": 26,
+          "url": "https://t.co/liqtlenWF8"
+        },
+        {
+          "display_url": "pic.x.com/liqtlenWF8",
+          "end": 49,
+          "expanded_url": "https://x.com/Sukl_sUKi/status/2066492394292621514/photo/1",
+          "media_key": "3_2066492383840350208",
+          "start": 26,
+          "url": "https://t.co/liqtlenWF8"
+        },
+        {
+          "display_url": "pic.x.com/liqtlenWF8",
+          "end": 49,
+          "expanded_url": "https://x.com/Sukl_sUKi/status/2066492394292621514/photo/1",
+          "media_key": "3_2066492383852912640",
+          "start": 26,
+          "url": "https://t.co/liqtlenWF8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066731947687280833",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066492394292621514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sukl_sUKi: 중국 다녀왔습니다잉 https://t.co/liqtlenWF8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066492383894851584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2n39kaUAA2LKd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066492383907532801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2n39nb0AEV0zK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066492383840350208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2n39XasAAbyk9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066492383852912640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2n39aaYAArs8u.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066492383894851584",
+            "3_2066492383907532801",
+            "3_2066492383840350208",
+            "3_2066492383852912640"
+          ],
+          "media_source_tweet_id": [
+            "2066492394292621514",
+            "2066492394292621514",
+            "2066492394292621514",
+            "2066492394292621514"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2066731947687280833",
+        "created_at": "2026-06-16T03:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T04:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066731947687280833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1249154601607036928",
+              "start": 3,
+              "username": "Sukl_sUKi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/liqtlenWF8",
+              "end": 49,
+              "expanded_url": "https://x.com/Sukl_sUKi/status/2066492394292621514/photo/1",
+              "media_key": "3_2066492383894851584",
+              "start": 26,
+              "url": "https://t.co/liqtlenWF8"
+            },
+            {
+              "display_url": "pic.x.com/liqtlenWF8",
+              "end": 49,
+              "expanded_url": "https://x.com/Sukl_sUKi/status/2066492394292621514/photo/1",
+              "media_key": "3_2066492383907532801",
+              "start": 26,
+              "url": "https://t.co/liqtlenWF8"
+            },
+            {
+              "display_url": "pic.x.com/liqtlenWF8",
+              "end": 49,
+              "expanded_url": "https://x.com/Sukl_sUKi/status/2066492394292621514/photo/1",
+              "media_key": "3_2066492383840350208",
+              "start": 26,
+              "url": "https://t.co/liqtlenWF8"
+            },
+            {
+              "display_url": "pic.x.com/liqtlenWF8",
+              "end": 49,
+              "expanded_url": "https://x.com/Sukl_sUKi/status/2066492394292621514/photo/1",
+              "media_key": "3_2066492383852912640",
+              "start": 26,
+              "url": "https://t.co/liqtlenWF8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066731947687280833",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066492394292621514",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sukl_sUKi: 중국 다녀왔습니다잉 https://t.co/liqtlenWF8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066492383894851584",
+            "3_2066492383907532801",
+            "3_2066492383840350208",
+            "3_2066492383852912640"
+          ]
+        },
+        "author_id": "1249154601607036928",
+        "conversation_id": "2066492394292621514",
+        "created_at": "2026-06-15T12:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066492394292621514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/liqtlenWF8",
+              "end": 34,
+              "expanded_url": "https://x.com/Sukl_sUKi/status/2066492394292621514/photo/1",
+              "media_key": "3_2066492383894851584",
+              "start": 11,
+              "url": "https://t.co/liqtlenWF8"
+            },
+            {
+              "display_url": "pic.x.com/liqtlenWF8",
+              "end": 34,
+              "expanded_url": "https://x.com/Sukl_sUKi/status/2066492394292621514/photo/1",
+              "media_key": "3_2066492383907532801",
+              "start": 11,
+              "url": "https://t.co/liqtlenWF8"
+            },
+            {
+              "display_url": "pic.x.com/liqtlenWF8",
+              "end": 34,
+              "expanded_url": "https://x.com/Sukl_sUKi/status/2066492394292621514/photo/1",
+              "media_key": "3_2066492383840350208",
+              "start": 11,
+              "url": "https://t.co/liqtlenWF8"
+            },
+            {
+              "display_url": "pic.x.com/liqtlenWF8",
+              "end": 34,
+              "expanded_url": "https://x.com/Sukl_sUKi/status/2066492394292621514/photo/1",
+              "media_key": "3_2066492383852912640",
+              "start": 11,
+              "url": "https://t.co/liqtlenWF8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066492394292621514",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 131386,
+          "like_count": 2231,
+          "quote_count": 5,
+          "reply_count": 161,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "중국 다녀왔습니다잉 https://t.co/liqtlenWF8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "烟代/我要养只小乌龟/12",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12和他的小乌龟",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066730626359975937/f_62LuDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 928,
+          "like_count": 17236,
+          "listed_count": 1,
+          "media_count": 889,
+          "tweet_count": 10061
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-12T01:57:29.000Z",
+        "description": "🦊@palpal_____ Photographer * cosplay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 1,
+                "username": "palpal_____"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spinspin.net/Sukl_sUKi",
+                "end": 23,
+                "expanded_url": "https://spinspin.net/Sukl_sUKi",
+                "start": 0,
+                "url": "https://t.co/BGG5g8b1vi"
+              }
+            ]
+          }
+        },
+        "id": "1249154601607036928",
+        "location": "컨택 DM / 알람x",
+        "name": "숙희 スッキ",
+        "pinned_tweet_id": "1771468516928926050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850830860381274112/Ls4be4Uq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5025,
+          "following_count": 594,
+          "like_count": 22087,
+          "listed_count": 26,
+          "media_count": 1653,
+          "tweet_count": 51735
+        },
+        "url": "https://t.co/BGG5g8b1vi",
+        "username": "Sukl_sUKi",
+        "verified": false
+      }
+    ]
+  }
+}
