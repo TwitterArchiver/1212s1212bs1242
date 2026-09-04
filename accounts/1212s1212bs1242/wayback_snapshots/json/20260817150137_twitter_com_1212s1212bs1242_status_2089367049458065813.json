@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089366982474997760",
+        "13_2089367004553854976"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2089367049458065813",
+    "created_at": "2026-08-17T15:01:37.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T16:01:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089367049458065813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yTlJKZocU7",
+          "end": 29,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2089367049458065813/video/1",
+          "media_key": "3_2089366982474997760",
+          "start": 6,
+          "url": "https://t.co/yTlJKZocU7"
+        },
+        {
+          "display_url": "pic.x.com/yTlJKZocU7",
+          "end": 29,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2089367049458065813/video/1",
+          "media_key": "13_2089367004553854976",
+          "start": 6,
+          "url": "https://t.co/yTlJKZocU7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089367049458065813",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "3_2089366982474997760"
+      },
+      {
+        "media_key": "13_2089367004553854976"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "3301！ https://t.co/yTlJKZocU7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2089366982474997760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7sM1vaIAA3xQy.jpg",
+        "width": 3000
+      },
+      {
+        "duration_ms": 20431,
+        "height": 1280,
+        "media_key": "13_2089367004553854976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089367004553854976/img/xDkurWQBPfc9c_-L.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089367004553854976/vid/avc1/320x568/nPnFI7m5PpNUM3Ht.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089367004553854976/vid/avc1/480x852/XeiPg2V2Mf5tNT9F.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089367004553854976/vid/avc1/720x1280/Ib6Va7tA-iFDygba.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089367004553854976/pl/RPYYz9R-Eys8iHGY.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089366982474997760",
+            "13_2089367004553854976"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2089367049458065813",
+        "created_at": "2026-08-17T15:01:37.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T16:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089367049458065813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yTlJKZocU7",
+              "end": 29,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2089367049458065813/video/1",
+              "media_key": "3_2089366982474997760",
+              "start": 6,
+              "url": "https://t.co/yTlJKZocU7"
+            },
+            {
+              "display_url": "pic.x.com/yTlJKZocU7",
+              "end": 29,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2089367049458065813/video/1",
+              "media_key": "13_2089367004553854976",
+              "start": 6,
+              "url": "https://t.co/yTlJKZocU7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089367049458065813",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2089366982474997760"
+          },
+          {
+            "media_key": "13_2089367004553854976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3301！ https://t.co/yTlJKZocU7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "12是12/没消息就是进牢了/单机/我只是一个缺爱的抽烟大丑b",
+        "id": "1684269091849404416",
+        "is_identity_verified": false,
+        "location": "我爱你",
+        "most_recent_tweet_id": "2089367049458065813",
+        "name": "12",
+        "pinned_tweet_id": "2088294106498019692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684269091849404416/1775462503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085734300742512640/9xgPxyaH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 903,
+          "like_count": 17085,
+          "listed_count": 0,
+          "media_count": 1110,
+          "tweet_count": 10446
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

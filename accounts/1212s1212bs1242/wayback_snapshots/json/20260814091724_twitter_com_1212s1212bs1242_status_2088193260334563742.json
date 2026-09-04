@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088193090649837568",
+        "13_2088193168890339329"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2088193260334563742",
+    "created_at": "2026-08-14T09:17:24.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T10:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088193260334563742"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/teFgJyjk41",
+          "end": 30,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2088193260334563742/video/1",
+          "media_key": "3_2088193090649837568",
+          "start": 7,
+          "url": "https://t.co/teFgJyjk41"
+        },
+        {
+          "display_url": "pic.x.com/teFgJyjk41",
+          "end": 30,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2088193260334563742/video/1",
+          "media_key": "13_2088193168890339329",
+          "start": 7,
+          "url": "https://t.co/teFgJyjk41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088193260334563742",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088193090649837568"
+      },
+      {
+        "media_key": "13_2088193168890339329"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很酷，不说话 https://t.co/teFgJyjk41"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2088193090649837568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrAjV6b0AAtnDc.jpg",
+        "width": 3000
+      },
+      {
+        "duration_ms": 14315,
+        "height": 1280,
+        "media_key": "13_2088193168890339329",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088193168890339329/img/4_FmcHXWQl7_B_wj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088193168890339329/vid/avc1/320x568/HcgXmBZxR1bk26I1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088193168890339329/vid/avc1/480x852/yKMw9RUmnJreIEQw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088193168890339329/vid/avc1/720x1280/j2fHgAA1lIOKQC0D.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088193168890339329/pl/siACSikWXl_xRyb_.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088193090649837568",
+            "13_2088193168890339329"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2088193260334563742",
+        "created_at": "2026-08-14T09:17:24.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T10:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088193260334563742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/teFgJyjk41",
+              "end": 30,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2088193260334563742/video/1",
+              "media_key": "3_2088193090649837568",
+              "start": 7,
+              "url": "https://t.co/teFgJyjk41"
+            },
+            {
+              "display_url": "pic.x.com/teFgJyjk41",
+              "end": 30,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2088193260334563742/video/1",
+              "media_key": "13_2088193168890339329",
+              "start": 7,
+              "url": "https://t.co/teFgJyjk41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088193260334563742",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088193090649837568"
+          },
+          {
+            "media_key": "13_2088193168890339329"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很酷，不说话 https://t.co/teFgJyjk41"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "12是12/没消息就是进牢了/单机/我只是一个缺爱的抽烟大丑b",
+        "id": "1684269091849404416",
+        "is_identity_verified": false,
+        "location": "我爱你",
+        "most_recent_tweet_id": "2088193260334563742",
+        "name": "12",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684269091849404416/1775462503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085734300742512640/9xgPxyaH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 905,
+          "like_count": 17080,
+          "listed_count": 1,
+          "media_count": 1097,
+          "tweet_count": 10431
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

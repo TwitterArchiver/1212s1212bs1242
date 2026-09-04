@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2089705140899209675",
+    "created_at": "2026-08-18T13:25:05.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T14:25:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089705140899209675"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/spaces/1jGXg…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1jGXgBjMVpkKZ",
+          "start": 0,
+          "status": 302,
+          "unwound_url": "https://twitter.com/i/spaces/1jGXgBjMVpkKZ/peek",
+          "url": "https://t.co/l0LKdON3NP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089705140899209675",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/l0LKdON3NP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2089705140899209675",
+        "created_at": "2026-08-18T13:25:05.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T14:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089705140899209675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/spaces/1jGXg…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1jGXgBjMVpkKZ",
+              "start": 0,
+              "status": 302,
+              "unwound_url": "https://twitter.com/i/spaces/1jGXgBjMVpkKZ/peek",
+              "url": "https://t.co/l0LKdON3NP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089705140899209675",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/l0LKdON3NP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "12是12/没消息就是进牢了/单机/我只是一个缺爱的抽烟大丑b",
+        "id": "1684269091849404416",
+        "is_identity_verified": false,
+        "location": "我爱你",
+        "most_recent_tweet_id": "2089705140899209675",
+        "name": "12",
+        "pinned_tweet_id": "2088294106498019692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684269091849404416/1775462503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085734300742512640/9xgPxyaH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 904,
+          "like_count": 17088,
+          "listed_count": 0,
+          "media_count": 1110,
+          "tweet_count": 10448
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
