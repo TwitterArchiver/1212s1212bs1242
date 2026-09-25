@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2101346244929142784"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2101346283944579582",
+    "created_at": "2026-09-19T16:22:49.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T17:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101346283944579582"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WsdRgiZz0H",
+          "end": 37,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2101346283944579582/video/1",
+          "media_key": "13_2101346244929142784",
+          "start": 14,
+          "url": "https://t.co/WsdRgiZz0H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101346283944579582",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2101346244929142784"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每天发点低质小视频污染空间 https://t.co/WsdRgiZz0H"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33434,
+        "height": 1280,
+        "media_key": "13_2101346244929142784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101346244929142784/img/AlrTaId0Fk7ulEx9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101346244929142784/vid/avc1/320x568/1CcsDQ-rNrBGDeK-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101346244929142784/vid/avc1/480x852/mbJ89gzsH37D1idz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101346244929142784/vid/avc1/720x1280/TVDACUDVHZ3w4TtZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101346244929142784/pl/yFgBb00Q3R7fsjZq.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101346244929142784"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2101346283944579582",
+        "created_at": "2026-09-19T16:22:49.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T17:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101346283944579582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WsdRgiZz0H",
+              "end": 37,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2101346283944579582/video/1",
+              "media_key": "13_2101346244929142784",
+              "start": 14,
+              "url": "https://t.co/WsdRgiZz0H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101346283944579582",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2101346244929142784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天发点低质小视频污染空间 https://t.co/WsdRgiZz0H"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "4I/烟代",
+        "id": "1684269091849404416",
+        "is_identity_verified": false,
+        "location": "我爱你",
+        "most_recent_tweet_id": "2101346283944579582",
+        "name": "12",
+        "pinned_tweet_id": "2096281899589378258",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684269091849404416/1775462503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098702769708503040/JYBMlxoD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 892,
+          "like_count": 17019,
+          "listed_count": 0,
+          "media_count": 1134,
+          "tweet_count": 10478
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

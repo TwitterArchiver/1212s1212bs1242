@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095465589062221824",
+        "3_2095465654820483072"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2095465670452695223",
+    "created_at": "2026-09-03T10:55:22.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T11:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095465670452695223"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/b5ALd0dZdX",
+          "end": 39,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2095465670452695223/video/1",
+          "media_key": "13_2095465589062221824",
+          "start": 16,
+          "url": "https://t.co/b5ALd0dZdX"
+        },
+        {
+          "display_url": "pic.x.com/b5ALd0dZdX",
+          "end": 39,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2095465670452695223/video/1",
+          "media_key": "3_2095465654820483072",
+          "start": 16,
+          "url": "https://t.co/b5ALd0dZdX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095465670452695223",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2095465589062221824"
+      },
+      {
+        "media_key": "3_2095465654820483072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个很好抽可惜我们这边压根没卖 https://t.co/b5ALd0dZdX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23172,
+        "height": 1280,
+        "media_key": "13_2095465589062221824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095465589062221824/img/olXXCSauOZMigKN3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095465589062221824/vid/avc1/320x568/c2NuaaGgVT9CGsZ4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095465589062221824/vid/avc1/480x852/39pMPOb1mLWasPDA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095465589062221824/vid/avc1/720x1280/g3KQyBBfFPHWNzOe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095465589062221824/pl/J7NNN8oFjcsoz0AC.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 4080,
+        "media_key": "3_2095465654820483072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSW6SqbMAAkw7I.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095465589062221824",
+            "3_2095465654820483072"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095465670452695223",
+        "created_at": "2026-09-03T10:55:22.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T11:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095465670452695223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b5ALd0dZdX",
+              "end": 39,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2095465670452695223/video/1",
+              "media_key": "13_2095465589062221824",
+              "start": 16,
+              "url": "https://t.co/b5ALd0dZdX"
+            },
+            {
+              "display_url": "pic.x.com/b5ALd0dZdX",
+              "end": 39,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2095465670452695223/video/1",
+              "media_key": "3_2095465654820483072",
+              "start": 16,
+              "url": "https://t.co/b5ALd0dZdX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095465670452695223",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2095465589062221824"
+          },
+          {
+            "media_key": "3_2095465654820483072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个很好抽可惜我们这边压根没卖 https://t.co/b5ALd0dZdX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "4I",
+        "id": "1684269091849404416",
+        "is_identity_verified": false,
+        "location": "我爱你",
+        "most_recent_tweet_id": "2095465670452695223",
+        "name": "12",
+        "pinned_tweet_id": "2088294106498019692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684269091849404416/1775462503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085734300742512640/9xgPxyaH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 892,
+          "like_count": 17061,
+          "listed_count": 0,
+          "media_count": 1119,
+          "tweet_count": 10461
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

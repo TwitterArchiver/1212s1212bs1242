@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098718523640156160",
+        "13_2098718575850852352"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2098718622625706282",
+    "created_at": "2026-09-12T10:21:26.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T11:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098718622625706282"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t9riVCEqrN",
+          "end": 43,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2098718622625706282/video/1",
+          "media_key": "3_2098718523640156160",
+          "start": 20,
+          "url": "https://t.co/t9riVCEqrN"
+        },
+        {
+          "display_url": "pic.x.com/t9riVCEqrN",
+          "end": 43,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2098718622625706282/video/1",
+          "media_key": "13_2098718575850852352",
+          "start": 20,
+          "url": "https://t.co/t9riVCEqrN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098718622625706282",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098718523640156160"
+      },
+      {
+        "media_key": "13_2098718575850852352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一口大哥一口！混乱的桌面，刚洗过的头 https://t.co/t9riVCEqrN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2098718523640156160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAlYLUakAADA-c.jpg",
+        "width": 3000
+      },
+      {
+        "duration_ms": 27720,
+        "height": 1280,
+        "media_key": "13_2098718575850852352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098718575850852352/img/TwFx4GKXwzuBGLCK.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098718575850852352/vid/avc1/320x568/7D1MGx2jIkD6emt6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098718575850852352/vid/avc1/480x852/fjEvnIOkDQdcU61V.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098718575850852352/vid/avc1/720x1280/W37OyJ0u3qbogpEm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098718575850852352/pl/vURiQRMxu9esuXWX.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098718523640156160",
+            "13_2098718575850852352"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2098718622625706282",
+        "created_at": "2026-09-12T10:21:26.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T11:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098718622625706282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t9riVCEqrN",
+              "end": 43,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2098718622625706282/video/1",
+              "media_key": "3_2098718523640156160",
+              "start": 20,
+              "url": "https://t.co/t9riVCEqrN"
+            },
+            {
+              "display_url": "pic.x.com/t9riVCEqrN",
+              "end": 43,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2098718622625706282/video/1",
+              "media_key": "13_2098718575850852352",
+              "start": 20,
+              "url": "https://t.co/t9riVCEqrN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098718622625706282",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098718523640156160"
+          },
+          {
+            "media_key": "13_2098718575850852352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一口大哥一口！混乱的桌面，刚洗过的头 https://t.co/t9riVCEqrN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "4I/烟代",
+        "id": "1684269091849404416",
+        "is_identity_verified": false,
+        "location": "我爱你",
+        "most_recent_tweet_id": "2098718622625706282",
+        "name": "12",
+        "pinned_tweet_id": "2096281899589378258",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684269091849404416/1775462503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098702769708503040/JYBMlxoD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 886,
+          "like_count": 17037,
+          "listed_count": 0,
+          "media_count": 1128,
+          "tweet_count": 10471
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

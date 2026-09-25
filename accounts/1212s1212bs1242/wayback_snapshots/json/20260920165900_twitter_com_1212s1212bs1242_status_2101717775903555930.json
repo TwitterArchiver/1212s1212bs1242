@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101717751564029952",
+        "3_2101717761240203265",
+        "3_2101717769444380672"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2101717775903555930",
+    "created_at": "2026-09-20T16:59:00.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T17:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101717775903555930"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UQgsEukLhH",
+          "end": 29,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2101717775903555930/photo/1",
+          "media_key": "3_2101717751564029952",
+          "start": 6,
+          "url": "https://t.co/UQgsEukLhH"
+        },
+        {
+          "display_url": "pic.x.com/UQgsEukLhH",
+          "end": 29,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2101717775903555930/photo/1",
+          "media_key": "3_2101717761240203265",
+          "start": 6,
+          "url": "https://t.co/UQgsEukLhH"
+        },
+        {
+          "display_url": "pic.x.com/UQgsEukLhH",
+          "end": 29,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2101717775903555930/photo/1",
+          "media_key": "3_2101717769444380672",
+          "start": 6,
+          "url": "https://t.co/UQgsEukLhH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101717775903555930",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101717751564029952"
+      },
+      {
+        "media_key": "3_2101717761240203265"
+      },
+      {
+        "media_key": "3_2101717769444380672"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来点客反！ https://t.co/UQgsEukLhH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2101717751564029952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSrNKOAbUAA6WYc.jpg",
+        "width": 810
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2101717761240203265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSrNKyDaAAEDTHB.jpg",
+        "width": 810
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2101717769444380672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSrNLQnb0AAm-d1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101717751564029952",
+            "3_2101717761240203265",
+            "3_2101717769444380672"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101717775903555930",
+        "created_at": "2026-09-20T16:59:00.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T17:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101717775903555930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UQgsEukLhH",
+              "end": 29,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2101717775903555930/photo/1",
+              "media_key": "3_2101717751564029952",
+              "start": 6,
+              "url": "https://t.co/UQgsEukLhH"
+            },
+            {
+              "display_url": "pic.x.com/UQgsEukLhH",
+              "end": 29,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2101717775903555930/photo/1",
+              "media_key": "3_2101717761240203265",
+              "start": 6,
+              "url": "https://t.co/UQgsEukLhH"
+            },
+            {
+              "display_url": "pic.x.com/UQgsEukLhH",
+              "end": 29,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2101717775903555930/photo/1",
+              "media_key": "3_2101717769444380672",
+              "start": 6,
+              "url": "https://t.co/UQgsEukLhH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101717775903555930",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101717751564029952"
+          },
+          {
+            "media_key": "3_2101717761240203265"
+          },
+          {
+            "media_key": "3_2101717769444380672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来点客反！ https://t.co/UQgsEukLhH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "4I/烟代",
+        "id": "1684269091849404416",
+        "is_identity_verified": false,
+        "location": "我爱你",
+        "most_recent_tweet_id": "2101717775903555930",
+        "name": "12",
+        "pinned_tweet_id": "2101701179524976916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684269091849404416/1775462503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098702769708503040/JYBMlxoD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 891,
+          "like_count": 17015,
+          "listed_count": 0,
+          "media_count": 1138,
+          "tweet_count": 10482
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
