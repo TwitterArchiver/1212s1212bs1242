@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2104514667507073024"
+      ]
+    },
+    "author_id": "1684269091849404416",
+    "conversation_id": "2104514701019541693",
+    "created_at": "2026-09-28T10:12:59.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T11:12:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104514701019541693"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SGtdlpcT2q",
+          "end": 40,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2104514701019541693/video/1",
+          "media_key": "13_2104514667507073024",
+          "start": 17,
+          "url": "https://t.co/SGtdlpcT2q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104514701019541693",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2104514667507073024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么贴子又莫名其妙开始给我推流了 https://t.co/SGtdlpcT2q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37393,
+        "height": 1280,
+        "media_key": "13_2104514667507073024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104514667507073024/img/sAgn_mfNssmoZ8tA.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104514667507073024/vid/avc1/320x568/l8SlT5fOPGxsqt8g.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104514667507073024/vid/avc1/480x852/spvWA23XEc52LkY7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104514667507073024/vid/avc1/720x1280/iRrTsSl77Jf3gBVr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104514667507073024/pl/TpkvzxJCeCjC1GLQ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104514667507073024"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2104514701019541693",
+        "created_at": "2026-09-28T10:12:59.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104514701019541693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SGtdlpcT2q",
+              "end": 40,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2104514701019541693/video/1",
+              "media_key": "13_2104514667507073024",
+              "start": 17,
+              "url": "https://t.co/SGtdlpcT2q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104514701019541693",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2104514667507073024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么贴子又莫名其妙开始给我推流了 https://t.co/SGtdlpcT2q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "4I/烟代",
+        "id": "1684269091849404416",
+        "is_identity_verified": false,
+        "location": "我爱你",
+        "most_recent_tweet_id": "2104514701019541693",
+        "name": "12",
+        "pinned_tweet_id": "2101701179524976916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684269091849404416/1775462503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098702769708503040/JYBMlxoD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 930,
+          "like_count": 16988,
+          "listed_count": 0,
+          "media_count": 1152,
+          "tweet_count": 10502
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

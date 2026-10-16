@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684269091849404416",
+    "conversation_id": "2102954017672638852",
+    "created_at": "2026-09-24T02:51:23.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T03:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102954017672638852"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Retepa8964/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Retepa8964/status/2102930212321444188",
+          "start": 11,
+          "url": "https://t.co/m0JUHEUTQk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102954017672638852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102930212321444188",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不同意 很润很舒服 https://t.co/m0JUHEUTQk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2102954017672638852",
+        "created_at": "2026-09-24T02:51:23.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T03:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102954017672638852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Retepa8964/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Retepa8964/status/2102930212321444188",
+              "start": 11,
+              "url": "https://t.co/m0JUHEUTQk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102954017672638852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102930212321444188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不同意 很润很舒服 https://t.co/m0JUHEUTQk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577362467419611137",
+        "conversation_id": "2102930212321444188",
+        "created_at": "2026-09-24T01:16:47.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T02:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102930212321444188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102930212321444188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "氯硝西泮死妈"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IE",
+              "full_name": "Ireland",
+              "geo": {
+                "coordinates": [
+                  -8.0,
+                  53.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "4I/烟代",
+        "id": "1684269091849404416",
+        "is_identity_verified": false,
+        "location": "我爱你",
+        "most_recent_tweet_id": "2102954017672638852",
+        "name": "12",
+        "pinned_tweet_id": "2101701179524976916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684269091849404416/1775462503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098702769708503040/JYBMlxoD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 909,
+          "like_count": 17010,
+          "listed_count": 0,
+          "media_count": 1141,
+          "tweet_count": 10489
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-04T18:18:25.000Z",
+        "description": "＝阿瓜｜pc街机😻/都市传说/文史哲艺爱好者/生理女友好一切/后现代/神必学游客/oder/精分/数字游民?/查成分互fo\n👁你們怎麼辦，只有天知道。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/retepa555",
+                "end": 23,
+                "expanded_url": "https://ngl.link/retepa555",
+                "start": 0,
+                "url": "https://t.co/i8FVzhF71c"
+              }
+            ]
+          }
+        },
+        "id": "1577362467419611137",
+        "is_identity_verified": false,
+        "location": "第三高原",
+        "most_recent_tweet_id": "2102952809113202705",
+        "name": "無機質水樂",
+        "pinned_tweet_id": "2008084757700395499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1577362467419611137/1756231334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101293744683425792/WHovGnkv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 975,
+          "like_count": 30435,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 2673
+        },
+        "url": "https://t.co/i8FVzhF71c",
+        "username": "Retepa8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
